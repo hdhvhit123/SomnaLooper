@@ -1,0 +1,178 @@
+app_name|SomnaLooper
+tagline|หลับสบายและโฟกัสลึก ไม่มีโฆษณา ไม่ใช้เน็ต เป็นส่วนตัวเต็มที่
+tab_mixer|มิกเซอร์
+tab_presets|รายการโปรด
+tab_timer|ตั้งเวลา
+tab_focus|โฟกัส
+tab_settings|การตั้งค่า
+cat_nature|ธรรมชาติ
+cat_ambient|บรรยากาศ
+cat_noise|นอยส์สี
+cat_brainwave|คลื่นสมอง
+cat_mine|เสียงของฉัน
+snd_rain_roof|ฝนตกบนหลังคาสังกะสี
+snd_rain_forest|ป่าฝนเขตร้อน
+snd_thunder|ฟ้าร้องไกลๆ
+snd_ocean|คลื่นทะเลยามค่ำ
+snd_stream|ลำธารไหลริน
+snd_wind|ลมผ่านหุบเขา
+snd_leaves|ใบไม้ไหว
+snd_birds|นกร้องยามเช้า
+snd_crickets|จิ้งหรีดหน้าร้อน
+snd_underwater|ใต้น้ำ
+snd_campfire|กองไฟ
+snd_cafe|คาเฟ่ปารีส
+snd_clock|นาฬิกาเดิน
+snd_fan|พัดลมเพดาน
+snd_train|รถไฟกลางคืน
+snd_cat_purr|แมวครางคราง
+snd_heartbeat|เสียงหัวใจในครรภ์
+snd_airplane|ห้องโดยสารเครื่องบิน
+snd_singing_bowl|ขันทิเบต
+snd_wind_chimes|กระดิ่งลม
+snd_white|ไวต์นอยส์
+snd_pink|พิงก์นอยส์
+snd_brown|บราวน์นอยส์
+snd_green|กรีนนอยส์
+snd_delta|คลื่นเดลต้า
+snd_theta|คลื่นเธต้า
+snd_alpha|คลื่นอัลฟ่า
+snd_beta|คลื่นเบต้า
+snd_gamma|คลื่นแกมมา
+desc_white|ไวต์นอยส์: พลังงานเท่ากันทุกความถี่ ช่วยกลบเสียงรบกวนที่เกิดขึ้นกะทันหัน
+desc_pink|พิงก์นอยส์: เสียงสูงนุ่มลง เหมือนฝนตกสม่ำเสมอ เหมาะกับการนอน
+desc_brown|บราวน์นอยส์: ทุ้มลึก ช่วยให้หลายคนหลับเร็ว
+desc_green|กรีนนอยส์: เน้นความถี่กลาง เป็นธรรมชาติและสงบ
+desc_delta|เดลต้า 2 Hz (0.5–4 Hz): หลับลึก
+desc_theta|เธต้า 6 Hz (4–8 Hz): สมาธิ
+desc_alpha|อัลฟ่า 10 Hz (8–14 Hz): ผ่อนคลายแต่ตื่นตัว
+desc_beta|เบต้า 18 Hz (14–30 Hz): โฟกัสอย่างกระตือรือร้น
+desc_gamma|แกมมา 40 Hz: สมาธิสูง
+headphones_hint|ไบนอรัลบีตต้องใช้หูฟัง หูแต่ละข้างจะได้ยินเสียงต่างกันเล็กน้อย
+import_audio|นำเข้าเสียง
+import_hint|เพิ่มเพลงบรรเลง พอดแคสต์ บทเรียน หรือบทสวดของคุณ (MP3, M4A, FLAC, WAV, OGG) เล่นวนต่อเนื่องด้วยการครอสเฟด กดค้างเพื่อเปลี่ยนชื่อหรือลบ
+edit_track|แก้ไขเสียง
+name|ชื่อ
+save|บันทึก
+delete|ลบ
+cancel|ยกเลิก
+close|ปิด
+remove|นำออก
+rename|เปลี่ยนชื่อ
+back|กลับ
+play|เล่น
+pause|หยุดชั่วคราว
+stop|หยุด
+skip|ข้าม
+clear_all|ล้างทั้งหมด
+a11y_volume|ระดับเสียง %1$d เปอร์เซ็นต์
+a11y_off|ปิด
+active_layers|เสียงที่เปิดอยู่
+mini_empty|แตะเสียงเพื่อเริ่มมิกซ์
+mini_hint|สูงสุด 8 เลเยอร์ ปรับเสียงแยกกันได้
+mini_layers|กำลังเล่น %1$d เสียง
+mini_timer|หยุดใน %1$s
+save_preset|บันทึกเป็นรายการโปรด
+save_current_mix|บันทึกมิกซ์ปัจจุบัน
+preset_name_hint|เช่น คืนฝนตก
+my_presets|รายการโปรดของฉัน
+no_presets|มิกซ์เสียงสักหน่อย แล้วบันทึกไว้ที่นี่ด้วยชื่อของคุณเอง
+curated_presets|ซาวด์สเคปแนะนำ
+delete_preset_q|ลบ “%1$s” ใช่ไหม
+preset_rainy_night|คืนฝนตก
+preset_deep_focus|โฟกัสลึก
+preset_ocean_dream|ฝันริมทะเล
+preset_campfire_night|คืนรอบกองไฟ
+preset_baby_sleep|ลูกน้อยหลับสบาย
+preset_cozy_cafe|คาเฟ่อบอุ่น
+preset_meditation|ทำสมาธิ
+preset_night_train|รถไฟกลางคืน
+preset_forest_morning|เช้าในป่า
+sleep_timer|ตั้งเวลานอน
+start_timer|เริ่มตั้งเวลา
+cancel_timer|ยกเลิกตั้งเวลา
+add_15|+15 นาที
+timer_running|จนกว่าจะเงียบ
+timer_fading|กำลังค่อยๆ เบาลง…
+timer_motion_fading|ดูเหมือนคุณหลับแล้ว กำลังเบาลง…
+timer_no_sound_hint|เลือกเสียงในมิกเซอร์ก่อน
+dial_hint|หมุนแป้น
+minutes_short|นาที
+hours_minutes|ชม. : นาที
+fade_out_title|ค่อยๆ ลดเสียงอย่างนุ่มนวล
+motion_title|หยุดอัตโนมัติเมื่อไม่ขยับ
+motion_tip|วางโทรศัพท์บนที่นอนใกล้หมอน
+motion_sensitivity|ความไว
+sens_low|ต่ำ
+sens_medium|กลาง
+sens_high|สูง
+battery_title|ป้องกันแบตเตอรี่
+battery_desc|หยุดเล่นเมื่อแบตเหลือ %1$d%% เพื่อให้นาฬิกาปลุกยังดังตอนเช้า
+battery_stop_title|หยุดเล่นเพื่อประหยัดแบตเตอรี่
+battery_stop_text|แบตเตอรี่ %1$d%% นาฬิกาปลุกของคุณปลอดภัย
+msg_stopped_motion|ไม่พบการเคลื่อนไหว เสียงค่อยๆ เบาลงแล้ว ฝันดี
+msg_stopped_battery|แบตต่ำ: หยุดเล่นเพื่อรักษานาฬิกาปลุก
+msg_stopped_timer|ตั้งเวลานอนสิ้นสุดแล้ว
+msg_file_error|ไม่สามารถเล่นไฟล์เสียงนี้ได้
+msg_layer_limit|มิกซ์ได้สูงสุด %1$d เสียงพร้อมกัน
+focus_title|ผู้ช่วยโฟกัส
+plan_classic|โพโมโดโร 25/5
+plan_deep|ทำงานลึก 50/10
+focus_phase_work|โฟกัส
+focus_phase_break|พัก
+focus_phase_long_break|พักยาว
+focus_completed|เสร็จแล้ว %1$d รอบ
+focus_sounds_title|เปลี่ยนเสียงอัตโนมัติ
+focus_sounds_work|ขณะโฟกัส: บราวน์นอยส์
+focus_sounds_work_pro|ขณะโฟกัส: บราวน์นอยส์ + คลื่นเบต้า
+focus_sounds_break|ขณะพัก: ลำธาร + นกร้อง
+zen_open|หน้าจอเซน
+zen_hint|แตะสองครั้งเพื่อออก
+zen_switch_clock|รูปแบบนาฬิกา
+zen_switch_effect|แอนิเมชัน
+zen_keep_screen|เปิดหน้าจอค้างไว้ในโหมดเซน
+zen_keep_screen_desc|หน้าจอจะหรี่จนเกือบดำ
+language|ภาษา
+language_system|ภาษาของโทรศัพท์ (ค่าเริ่มต้น)
+haptics|การสั่นตอบสนอง
+haptics_desc|สั่นเบาๆ เมื่อหมุนแป้น
+crossfade_title|ครอสเฟดตอนวนซ้ำ
+crossfade_desc|ผสาน %1$.2f วินาทีที่จุดวนของไฟล์ที่นำเข้า
+section_general|ทั่วไป
+section_playback|การเล่น
+section_sleep_safety|การนอนและแบตเตอรี่
+section_zen|โหมดเซน
+section_pro|SomnaLooper Pro
+section_data|ประวัติ
+section_about|เกี่ยวกับ
+pro_title|ปลดล็อก SomnaLooper Pro
+pro_desc|ทุกเสียง 8 เลเยอร์ หยุดอัตโนมัติ และป้องกันแบตเตอรี่
+pro_active_title|Pro เปิดใช้งานแล้ว
+pro_active_desc|ขอบคุณที่สนับสนุน SomnaLooper!
+pro_badge|PRO
+pro_benefit_sounds|ครบทั้ง 29 เสียง รวมไบนอรัลบีต
+pro_benefit_layers|มิกซ์ได้สูงสุด 8 เสียง (ฟรี: 3)
+pro_benefit_sensors|หยุดอัตโนมัติเมื่อไม่ขยับและป้องกันแบตเตอรี่
+pro_benefit_support|ซื้อครั้งเดียวใช้ได้ตลอด ไม่มีโฆษณา ไม่มีรายเดือน
+pro_buy|ซื้อ Pro
+pro_buy_price|ซื้อ Pro · %1$s
+pro_unavailable|การซื้อใช้ได้ในเวอร์ชัน Google Play
+restore_purchases|กู้คืนการซื้อ
+dev_pro|นักพัฒนา: ปลดล็อก Pro
+dev_pro_desc|เฉพาะบิลด์ดีบักสำหรับทดสอบ
+history_title|ประวัติการฟัง
+history_desc|เซสชันการนอนและโฟกัสล่าสุด
+history_week|เวลาฟัง 7 วันที่ผ่านมา
+history_empty|ยังไม่มีเซสชัน
+reason_motion|หยุดโดยเซ็นเซอร์การเคลื่อนไหว
+reason_battery|หยุดเพื่อประหยัดแบต
+reason_timer|ตั้งเวลานอน
+privacy_title|ทำงานบนเครื่อง 100%
+privacy_text|SomnaLooper ไม่มีเซิร์ฟเวอร์และไม่ขอสิทธิ์อินเทอร์เน็ต เสียงถูกสร้างบนโทรศัพท์ของคุณ มิกซ์ ไฟล์ และประวัติไม่เคยออกจากเครื่อง
+version_label|เวอร์ชัน %1$s
+notif_subtitle_playing|กำลังเล่น
+notif_timer_left|ตั้งเวลานอน: เหลือ %1$d นาที
+channel_alerts|การแจ้งเตือน
+@fade_minutes|other=ค่อยๆ ลดเสียงใน %1$d นาทีสุดท้าย
+@motion_desc|other=ลดเสียงหลังไม่ขยับ %1$d นาที
+@minutes|other=%1$d นาที

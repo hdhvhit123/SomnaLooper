@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="midnight">#FF0A1028</color>
+    <color name="glow">#FF8FA8FF</color>
+    <color name="moon">#FFE8E4D4</color>
+    <color name="ic_launcher_background">#FF070B1F</color>
+</resources>

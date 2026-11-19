@@ -1,0 +1,178 @@
+app_name|SomnaLooper
+tagline|ぐっすり眠って深く集中。広告なし・通信なし・完全プライベート。
+tab_mixer|ミキサー
+tab_presets|お気に入り
+tab_timer|タイマー
+tab_focus|集中
+tab_settings|設定
+cat_nature|自然
+cat_ambient|環境音
+cat_noise|カラーノイズ
+cat_brainwave|脳波
+cat_mine|マイサウンド
+snd_rain_roof|トタン屋根の雨
+snd_rain_forest|熱帯雨林
+snd_thunder|遠雷
+snd_ocean|夜の波
+snd_stream|せせらぎ
+snd_wind|峡谷の風
+snd_leaves|木の葉のざわめき
+snd_birds|朝の鳥
+snd_crickets|夏の虫の声
+snd_underwater|水中
+snd_campfire|焚き火
+snd_cafe|パリのカフェ
+snd_clock|時計の音
+snd_fan|シーリングファン
+snd_train|夜行列車
+snd_cat_purr|猫のゴロゴロ
+snd_heartbeat|胎内の心音
+snd_airplane|飛行機の機内
+snd_singing_bowl|シンギングボウル
+snd_wind_chimes|ウィンドチャイム
+snd_white|ホワイトノイズ
+snd_pink|ピンクノイズ
+snd_brown|ブラウンノイズ
+snd_green|グリーンノイズ
+snd_delta|デルタ波
+snd_theta|シータ波
+snd_alpha|アルファ波
+snd_beta|ベータ波
+snd_gamma|ガンマ波
+desc_white|ホワイトノイズ：全周波数に均等なエネルギー。突然の物音を隠します。
+desc_pink|ピンクノイズ：高音が柔らかく、一定の雨のよう。眠りに心地よい音。
+desc_brown|ブラウンノイズ：低く深い音。素早い入眠を助けます。
+desc_green|グリーンノイズ：中音域中心で自然で穏やか。
+desc_delta|デルタ 2 Hz（0.5〜4 Hz）：深い睡眠。
+desc_theta|シータ 6 Hz（4〜8 Hz）：瞑想。
+desc_alpha|アルファ 10 Hz（8〜14 Hz）：リラックスした覚醒。
+desc_beta|ベータ 18 Hz（14〜30 Hz）：活発な集中。
+desc_gamma|ガンマ 40 Hz：高い集中。
+headphones_hint|バイノーラルビートにはヘッドホンが必要です。左右の耳でわずかに異なる音を聞きます。
+import_audio|音声を追加
+import_hint|インスト曲、ポッドキャスト、講義、お経などを追加できます（MP3、M4A、FLAC、WAV、OGG）。クロスフェードで途切れずループします。長押しで名前変更・削除。
+edit_track|サウンドを編集
+name|名前
+save|保存
+delete|削除
+cancel|キャンセル
+close|閉じる
+remove|外す
+rename|名前を変更
+back|戻る
+play|再生
+pause|一時停止
+stop|停止
+skip|スキップ
+clear_all|すべてクリア
+a11y_volume|音量 %1$d パーセント
+a11y_off|オフ
+active_layers|再生中のサウンド
+mini_empty|サウンドをタップしてミックスを作成
+mini_hint|最大8レイヤー、それぞれ音量を調整可能
+mini_layers|%1$d 個のサウンドを再生中
+mini_timer|あと %1$s で停止
+save_preset|お気に入りに保存
+save_current_mix|現在のミックスを保存
+preset_name_hint|例：雨の夜
+my_presets|マイお気に入り
+no_presets|サウンドをミックスして、好きな名前でここに保存しましょう。
+curated_presets|おすすめサウンドスケープ
+delete_preset_q|「%1$s」を削除しますか？
+preset_rainy_night|雨の夜
+preset_deep_focus|ディープフォーカス
+preset_ocean_dream|海の夢
+preset_campfire_night|焚き火の夜
+preset_baby_sleep|赤ちゃんの眠り
+preset_cozy_cafe|居心地のいいカフェ
+preset_meditation|瞑想
+preset_night_train|夜行列車
+preset_forest_morning|森の朝
+sleep_timer|スリープタイマー
+start_timer|タイマー開始
+cancel_timer|タイマーを解除
+add_15|+15分
+timer_running|静かになるまで
+timer_fading|ゆっくりフェードアウト中…
+timer_motion_fading|眠ったようです。フェードアウト中…
+timer_no_sound_hint|まずミキサーでサウンドを選んでください。
+dial_hint|ダイヤルを回す
+minutes_short|分
+hours_minutes|時間 : 分
+fade_out_title|なめらかなフェードアウト
+motion_title|体動センサー自動停止
+motion_tip|枕の近く、マットレスの上にスマホを置いてください。
+motion_sensitivity|感度
+sens_low|低
+sens_medium|中
+sens_high|高
+battery_title|バッテリー保護
+battery_desc|バッテリーが %1$d%% になったら停止し、朝のアラームを守ります。
+battery_stop_title|バッテリー節約のため再生を停止しました
+battery_stop_text|バッテリー残量 %1$d%%。アラームは大丈夫です。
+msg_stopped_motion|動きがないためフェードアウトしました。おやすみなさい。
+msg_stopped_battery|バッテリー低下：アラームを守るため停止しました。
+msg_stopped_timer|スリープタイマーが終了しました。
+msg_file_error|この音声ファイルを再生できませんでした。
+msg_layer_limit|同時にミックスできるのは %1$d 個までです。
+focus_title|集中サポート
+plan_classic|ポモドーロ 25/5
+plan_deep|ディープワーク 50/10
+focus_phase_work|集中
+focus_phase_break|休憩
+focus_phase_long_break|長い休憩
+focus_completed|%1$d セッション完了
+focus_sounds_title|サウンド自動切り替え
+focus_sounds_work|集中中：ブラウンノイズ
+focus_sounds_work_pro|集中中：ブラウンノイズ＋ベータ波
+focus_sounds_break|休憩中：せせらぎ＋鳥の声
+zen_open|Zenディスプレイ
+zen_hint|ダブルタップで終了
+zen_switch_clock|時計スタイル
+zen_switch_effect|アニメーション
+zen_keep_screen|Zenモード中は画面をオンのままにする
+zen_keep_screen_desc|画面はほぼ黒まで暗くなります。
+language|言語
+language_system|端末の言語（デフォルト）
+haptics|触覚フィードバック
+haptics_desc|ダイヤルを回すと軽く振動します。
+crossfade_title|ループのクロスフェード
+crossfade_desc|追加したファイルのループ地点で %1$.2f 秒ブレンド。
+section_general|一般
+section_playback|再生
+section_sleep_safety|睡眠とバッテリー
+section_zen|Zenモード
+section_pro|SomnaLooper Pro
+section_data|履歴
+section_about|アプリについて
+pro_title|SomnaLooper Pro を解除
+pro_desc|全サウンド、8レイヤー、体動停止とバッテリー保護。
+pro_active_title|Pro が有効です
+pro_active_desc|SomnaLooper を応援いただきありがとうございます！
+pro_badge|PRO
+pro_benefit_sounds|バイノーラルビートを含む全29サウンド
+pro_benefit_layers|最大8サウンドを同時ミックス（無料版：3）
+pro_benefit_sensors|体動センサー自動停止とバッテリー保護
+pro_benefit_support|買い切りでずっと使えます。広告・サブスクなし。
+pro_buy|Pro を購入
+pro_buy_price|Pro を購入 · %1$s
+pro_unavailable|購入は Google Play 版で利用できます。
+restore_purchases|購入を復元
+dev_pro|開発者：Pro を解除
+dev_pro_desc|デバッグビルドのみ（テスト用）。
+history_title|再生履歴
+history_desc|最近の睡眠・集中セッション。
+history_week|過去7日間の再生時間
+history_empty|まだセッションはありません。
+reason_motion|体動センサーで停止
+reason_battery|バッテリー節約で停止
+reason_timer|スリープタイマー
+privacy_title|100% 端末内で完結
+privacy_text|SomnaLooper にはサーバーもインターネット権限もありません。サウンドはスマホ上で生成され、ミックス・ファイル・履歴が外部に送られることはありません。
+version_label|バージョン %1$s
+notif_subtitle_playing|再生中
+notif_timer_left|スリープタイマー：残り %1$d 分
+channel_alerts|お知らせ
+@fade_minutes|other=最後の %1$d 分でフェードアウト
+@motion_desc|other=%1$d 分間動きがなければフェードアウト
+@minutes|other=%1$d 分

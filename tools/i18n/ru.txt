@@ -1,0 +1,178 @@
+app_name|SomnaLooper
+tagline|Крепкий сон и глубокая концентрация. Без рекламы, без интернета, полная приватность.
+tab_mixer|Микшер
+tab_presets|Избранное
+tab_timer|Таймер
+tab_focus|Фокус
+tab_settings|Настройки
+cat_nature|Природа
+cat_ambient|Атмосфера
+cat_noise|Цветной шум
+cat_brainwave|Мозговые волны
+cat_mine|Мои звуки
+snd_rain_roof|Дождь по жестяной крыше
+snd_rain_forest|Тропический лес
+snd_thunder|Далёкий гром
+snd_ocean|Ночной океан
+snd_stream|Журчащий ручей
+snd_wind|Ветер в каньоне
+snd_leaves|Шелест листьев
+snd_birds|Утренние птицы
+snd_crickets|Летние сверчки
+snd_underwater|Под водой
+snd_campfire|Костёр
+snd_cafe|Парижское кафе
+snd_clock|Тикающие часы
+snd_fan|Потолочный вентилятор
+snd_train|Ночной поезд
+snd_cat_purr|Мурлыкающий кот
+snd_heartbeat|Сердцебиение в утробе
+snd_airplane|Салон самолёта
+snd_singing_bowl|Поющая чаша
+snd_wind_chimes|Музыка ветра
+snd_white|Белый шум
+snd_pink|Розовый шум
+snd_brown|Коричневый шум
+snd_green|Зелёный шум
+snd_delta|Дельта-волны
+snd_theta|Тета-волны
+snd_alpha|Альфа-волны
+snd_beta|Бета-волны
+snd_gamma|Гамма-волны
+desc_white|Белый шум: равная энергия на всех частотах. Хорошо маскирует резкие звуки.
+desc_pink|Розовый шум: мягкие верха, как ровный дождь. Приятен для сна.
+desc_brown|Коричневый шум: глубокий и низкий. Помогает быстро уснуть.
+desc_green|Зелёный шум: сосредоточен на средних частотах, естественный и спокойный.
+desc_delta|Дельта 2 Гц (0,5–4 Гц): глубокий сон.
+desc_theta|Тета 6 Гц (4–8 Гц): медитация.
+desc_alpha|Альфа 10 Гц (8–14 Гц): расслабленная бодрость.
+desc_beta|Бета 18 Гц (14–30 Гц): активная концентрация.
+desc_gamma|Гамма 40 Гц: высокая концентрация.
+headphones_hint|Для бинауральных ритмов нужны наушники: каждое ухо слышит немного другой тон.
+import_audio|Импорт аудио
+import_hint|Добавьте свою инструментальную музыку, подкасты, лекции или мантры (MP3, M4A, FLAC, WAV, OGG). Они зацикливаются без разрывов с плавным переходом. Долгое нажатие — переименовать или удалить.
+edit_track|Изменить звук
+name|Название
+save|Сохранить
+delete|Удалить
+cancel|Отмена
+close|Закрыть
+remove|Убрать
+rename|Переименовать
+back|Назад
+play|Играть
+pause|Пауза
+stop|Стоп
+skip|Пропустить
+clear_all|Очистить всё
+a11y_volume|Громкость %1$d процентов
+a11y_off|Выкл.
+active_layers|Активные звуки
+mini_empty|Нажимайте на звуки, чтобы создать микс
+mini_hint|До 8 слоёв, у каждого своя громкость
+mini_layers|Играет звуков: %1$d
+mini_timer|Остановка через %1$s
+save_preset|Сохранить в избранное
+save_current_mix|Сохранить микс
+preset_name_hint|напр. Дождливая ночь
+my_presets|Моё избранное
+no_presets|Смешайте несколько звуков и сохраните их здесь под своим названием.
+curated_presets|Рекомендуемые атмосферы
+delete_preset_q|Удалить «%1$s»?
+preset_rainy_night|Дождливая ночь
+preset_deep_focus|Глубокий фокус
+preset_ocean_dream|Океанский сон
+preset_campfire_night|Ночь у костра
+preset_baby_sleep|Сон малыша
+preset_cozy_cafe|Уютное кафе
+preset_meditation|Медитация
+preset_night_train|Ночной поезд
+preset_forest_morning|Утро в лесу
+sleep_timer|Таймер сна
+start_timer|Запустить таймер
+cancel_timer|Отменить таймер
+add_15|+15 мин
+timer_running|до тишины
+timer_fading|плавно затихает…
+timer_motion_fading|похоже, вы уснули, затихаем…
+timer_no_sound_hint|Сначала выберите звуки в Микшере.
+dial_hint|поверните диск
+minutes_short|мин
+hours_minutes|ч : мин
+fade_out_title|Плавное затухание
+motion_title|Автостоп по движению
+motion_tip|Положите телефон на матрас рядом с подушкой.
+motion_sensitivity|Чувствительность
+sens_low|Низкая
+sens_medium|Средняя
+sens_high|Высокая
+battery_title|Защита батареи
+battery_desc|Остановить воспроизведение при %1$d%% заряда, чтобы будильник сработал.
+battery_stop_title|Воспроизведение остановлено для экономии батареи
+battery_stop_text|Заряд %1$d%%. Будильник в безопасности.
+msg_stopped_motion|Движения нет: звук затих. Спокойной ночи.
+msg_stopped_battery|Низкий заряд: воспроизведение остановлено ради будильника.
+msg_stopped_timer|Таймер сна завершён.
+msg_file_error|Не удалось воспроизвести этот файл.
+msg_layer_limit|Можно смешивать до %1$d звуков одновременно.
+focus_title|Помощник фокуса
+plan_classic|Помодоро 25/5
+plan_deep|Глубокая работа 50/10
+focus_phase_work|Фокус
+focus_phase_break|Перерыв
+focus_phase_long_break|Длинный перерыв
+focus_completed|Завершено сессий: %1$d
+focus_sounds_title|Автосмена звуков
+focus_sounds_work|Во время работы: коричневый шум
+focus_sounds_work_pro|Во время работы: коричневый шум + бета-волны
+focus_sounds_break|На перерывах: ручей + птицы
+zen_open|Дзен-экран
+zen_hint|Дважды коснитесь, чтобы выйти
+zen_switch_clock|Стиль часов
+zen_switch_effect|Анимация
+zen_keep_screen|Не выключать экран в режиме Дзен
+zen_keep_screen_desc|Экран затемняется почти до чёрного.
+language|Язык
+language_system|Язык телефона (по умолчанию)
+haptics|Тактильный отклик
+haptics_desc|Лёгкая вибрация при вращении дисков.
+crossfade_title|Переход в петле
+crossfade_desc|Смешивание %1$.2f с в точке петли импортированных файлов.
+section_general|Общие
+section_playback|Воспроизведение
+section_sleep_safety|Сон и батарея
+section_zen|Режим Дзен
+section_pro|SomnaLooper Pro
+section_data|История
+section_about|О приложении
+pro_title|Открыть SomnaLooper Pro
+pro_desc|Все звуки, 8 слоёв, автостоп по движению и защита батареи.
+pro_active_title|Pro активен
+pro_active_desc|Спасибо за поддержку SomnaLooper!
+pro_badge|PRO
+pro_benefit_sounds|Все 29 звуков, включая бинауральные ритмы
+pro_benefit_layers|До 8 звуков одновременно (бесплатно: 3)
+pro_benefit_sensors|Автостоп по движению и защита батареи
+pro_benefit_support|Разовая покупка навсегда. Без рекламы и подписки.
+pro_buy|Купить Pro
+pro_buy_price|Купить Pro · %1$s
+pro_unavailable|Покупки доступны в версии из Google Play.
+restore_purchases|Восстановить покупки
+dev_pro|Разработчик: открыть Pro
+dev_pro_desc|Только для отладочных сборок.
+history_title|История прослушивания
+history_desc|Ваши недавние сессии сна и фокуса.
+history_week|Время прослушивания за 7 дней
+history_empty|Сессий пока нет.
+reason_motion|остановлено датчиком движения
+reason_battery|остановлено для экономии батареи
+reason_timer|таймер сна
+privacy_title|100% на устройстве
+privacy_text|У SomnaLooper нет серверов и доступа к интернету. Звуки создаются на телефоне, а ваши миксы, файлы и история никогда его не покидают.
+version_label|Версия %1$s
+notif_subtitle_playing|Воспроизведение
+notif_timer_left|Таймер сна: осталось %1$d мин
+channel_alerts|Уведомления
+@fade_minutes|one=Затухание за последнюю %1$d минуту|few=Затухание за последние %1$d минуты|many=Затухание за последние %1$d минут|other=Затухание за последние %1$d минуты
+@motion_desc|one=Затухание после %1$d минуты без движения|few=Затухание после %1$d минут без движения|many=Затухание после %1$d минут без движения|other=Затухание после %1$d минуты без движения
+@minutes|one=%1$d мин|few=%1$d мин|many=%1$d мин|other=%1$d мин

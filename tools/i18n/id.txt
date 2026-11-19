@@ -1,0 +1,178 @@
+app_name|SomnaLooper
+tagline|Tidur nyenyak & fokus mendalam. Tanpa iklan, tanpa kuota, sepenuhnya privat.
+tab_mixer|Mixer
+tab_presets|Favorit
+tab_timer|Timer
+tab_focus|Fokus
+tab_settings|Setelan
+cat_nature|Alam
+cat_ambient|Suasana
+cat_noise|Derau warna
+cat_brainwave|Gelombang otak
+cat_mine|Suara saya
+snd_rain_roof|Hujan di atap seng
+snd_rain_forest|Hutan hujan tropis
+snd_thunder|Guntur di kejauhan
+snd_ocean|Ombak malam
+snd_stream|Gemericik sungai
+snd_wind|Angin di ngarai
+snd_leaves|Gemerisik daun
+snd_birds|Kicau burung pagi
+snd_crickets|Jangkrik musim panas
+snd_underwater|Bawah air
+snd_campfire|Api unggun
+snd_cafe|Kafe Paris
+snd_clock|Detak jam
+snd_fan|Kipas langit-langit
+snd_train|Kereta malam
+snd_cat_purr|Dengkur kucing
+snd_heartbeat|Detak jantung dalam rahim
+snd_airplane|Kabin pesawat
+snd_singing_bowl|Mangkuk bernyanyi
+snd_wind_chimes|Lonceng angin
+snd_white|Derau putih
+snd_pink|Derau merah muda
+snd_brown|Derau cokelat
+snd_green|Derau hijau
+snd_delta|Gelombang Delta
+snd_theta|Gelombang Theta
+snd_alpha|Gelombang Alfa
+snd_beta|Gelombang Beta
+snd_gamma|Gelombang Gamma
+desc_white|Derau putih: energi sama di semua frekuensi. Menutupi suara mendadak.
+desc_pink|Derau merah muda: nada tinggi lebih lembut, seperti hujan stabil. Nyaman untuk tidur.
+desc_brown|Derau cokelat: dalam dan bergemuruh. Membantu cepat tertidur.
+desc_green|Derau hijau: berpusat di frekuensi tengah, alami dan tenang.
+desc_delta|Delta 2 Hz (0,5–4 Hz): tidur nyenyak.
+desc_theta|Theta 6 Hz (4–8 Hz): meditasi.
+desc_alpha|Alfa 10 Hz (8–14 Hz): rileks namun waspada.
+desc_beta|Beta 18 Hz (14–30 Hz): fokus aktif.
+desc_gamma|Gamma 40 Hz: konsentrasi tinggi.
+headphones_hint|Binaural beats membutuhkan headphone: tiap telinga mendengar nada yang sedikit berbeda.
+import_audio|Impor audio
+import_hint|Tambahkan musik instrumental, podcast, kuliah, atau lantunan doa Anda (MP3, M4A, FLAC, WAV, OGG). Diputar berulang mulus dengan crossfade. Tekan lama untuk ganti nama atau hapus.
+edit_track|Edit suara
+name|Nama
+save|Simpan
+delete|Hapus
+cancel|Batal
+close|Tutup
+remove|Lepas
+rename|Ganti nama
+back|Kembali
+play|Putar
+pause|Jeda
+stop|Berhenti
+skip|Lewati
+clear_all|Hapus semua
+a11y_volume|Volume %1$d persen
+a11y_off|Mati
+active_layers|Suara aktif
+mini_empty|Ketuk suara untuk membuat campuran
+mini_hint|Hingga 8 lapisan, masing-masing dengan volume sendiri
+mini_layers|%1$d suara diputar
+mini_timer|Berhenti dalam %1$s
+save_preset|Simpan ke favorit
+save_current_mix|Simpan campuran ini
+preset_name_hint|mis. Malam hujan
+my_presets|Favorit saya
+no_presets|Campur beberapa suara, lalu simpan di sini dengan nama Anda sendiri.
+curated_presets|Lanskap suara pilihan
+delete_preset_q|Hapus “%1$s”?
+preset_rainy_night|Malam hujan
+preset_deep_focus|Fokus mendalam
+preset_ocean_dream|Mimpi samudra
+preset_campfire_night|Malam api unggun
+preset_baby_sleep|Tidur bayi
+preset_cozy_cafe|Kafe nyaman
+preset_meditation|Meditasi
+preset_night_train|Kereta malam
+preset_forest_morning|Pagi di hutan
+sleep_timer|Timer tidur
+start_timer|Mulai timer
+cancel_timer|Batalkan timer
+add_15|+15 mnt
+timer_running|hingga hening
+timer_fading|memelan perlahan…
+timer_motion_fading|sepertinya Anda tertidur, memelan…
+timer_no_sound_hint|Pilih beberapa suara di Mixer dulu.
+dial_hint|putar kenop
+minutes_short|mnt
+hours_minutes|jam : mnt
+fade_out_title|Pelan perlahan
+motion_title|Berhenti otomatis saat diam
+motion_tip|Letakkan ponsel di kasur dekat bantal.
+motion_sensitivity|Sensitivitas
+sens_low|Rendah
+sens_medium|Sedang
+sens_high|Tinggi
+battery_title|Pelindung baterai
+battery_desc|Hentikan pemutaran saat baterai %1$d%% agar alarm pagi tetap berbunyi.
+battery_stop_title|Pemutaran dihentikan untuk hemat baterai
+battery_stop_text|Baterai %1$d%%. Alarm Anda aman.
+msg_stopped_motion|Tidak ada gerakan: suara dipelankan. Selamat tidur.
+msg_stopped_battery|Baterai lemah: pemutaran dihentikan demi alarm Anda.
+msg_stopped_timer|Timer tidur selesai.
+msg_file_error|File audio ini tidak dapat diputar.
+msg_layer_limit|Anda dapat mencampur hingga %1$d suara sekaligus.
+focus_title|Pendamping fokus
+plan_classic|Pomodoro 25/5
+plan_deep|Kerja mendalam 50/10
+focus_phase_work|Fokus
+focus_phase_break|Istirahat
+focus_phase_long_break|Istirahat panjang
+focus_completed|%1$d sesi selesai
+focus_sounds_title|Ganti suara otomatis
+focus_sounds_work|Saat fokus: derau cokelat
+focus_sounds_work_pro|Saat fokus: derau cokelat + gelombang Beta
+focus_sounds_break|Saat istirahat: sungai + kicau burung
+zen_open|Layar Zen
+zen_hint|Ketuk dua kali untuk keluar
+zen_switch_clock|Gaya jam
+zen_switch_effect|Animasi
+zen_keep_screen|Layar tetap menyala di mode Zen
+zen_keep_screen_desc|Layar diredupkan hampir hitam.
+language|Bahasa
+language_system|Bahasa ponsel (default)
+haptics|Umpan balik getar
+haptics_desc|Getaran halus saat memutar kenop.
+crossfade_title|Crossfade perulangan
+crossfade_desc|Campuran %1$.2f dtk di titik ulang file impor.
+section_general|Umum
+section_playback|Pemutaran
+section_sleep_safety|Tidur & baterai
+section_zen|Mode Zen
+section_pro|SomnaLooper Pro
+section_data|Riwayat
+section_about|Tentang
+pro_title|Buka SomnaLooper Pro
+pro_desc|Semua suara, 8 lapisan, berhenti otomatis, dan pelindung baterai.
+pro_active_title|Pro aktif
+pro_active_desc|Terima kasih telah mendukung SomnaLooper!
+pro_badge|PRO
+pro_benefit_sounds|Semua 29 suara, termasuk binaural beats
+pro_benefit_layers|Campur hingga 8 suara (gratis: 3)
+pro_benefit_sensors|Berhenti otomatis saat diam dan pelindung baterai
+pro_benefit_support|Sekali beli, selamanya. Tanpa iklan, tanpa langganan.
+pro_buy|Beli Pro
+pro_buy_price|Beli Pro · %1$s
+pro_unavailable|Pembelian tersedia di versi Google Play.
+restore_purchases|Pulihkan pembelian
+dev_pro|Pengembang: buka Pro
+dev_pro_desc|Hanya build debug untuk pengujian.
+history_title|Riwayat mendengar
+history_desc|Sesi tidur dan fokus terbaru Anda.
+history_week|Waktu mendengar, 7 hari terakhir
+history_empty|Belum ada sesi.
+reason_motion|dihentikan sensor gerak
+reason_battery|dihentikan untuk hemat baterai
+reason_timer|timer tidur
+privacy_title|100% di perangkat
+privacy_text|SomnaLooper tidak punya server dan tidak meminta izin internet. Suara dibuat di ponsel Anda; campuran, file, dan riwayat tidak pernah keluar dari perangkat.
+version_label|Versi %1$s
+notif_subtitle_playing|Sedang diputar
+notif_timer_left|Timer tidur: sisa %1$d mnt
+channel_alerts|Peringatan
+@fade_minutes|other=Pelankan selama %1$d menit terakhir
+@motion_desc|other=Pelankan setelah %1$d menit tanpa gerakan
+@minutes|other=%1$d mnt

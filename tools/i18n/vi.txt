@@ -1,0 +1,178 @@
+app_name|SomnaLooper
+tagline|Ngủ ngon & tập trung sâu. Không quảng cáo, không tốn mạng, trọn vẹn riêng tư.
+tab_mixer|Trộn âm
+tab_presets|Yêu thích
+tab_timer|Hẹn giờ
+tab_focus|Tập trung
+tab_settings|Cài đặt
+cat_nature|Thiên nhiên
+cat_ambient|Môi trường
+cat_noise|Tiếng ồn màu
+cat_brainwave|Sóng não
+cat_mine|Âm thanh của tôi
+snd_rain_roof|Mưa trên mái tôn
+snd_rain_forest|Mưa rừng nhiệt đới
+snd_thunder|Sấm rền xa
+snd_ocean|Sóng biển ban đêm
+snd_stream|Suối chảy róc rách
+snd_wind|Gió rít qua khe núi
+snd_leaves|Lá xào xạc
+snd_birds|Chim hót buổi sáng
+snd_crickets|Dế kêu đêm hè
+snd_underwater|Dưới mặt nước
+snd_campfire|Lửa trại bập bùng
+snd_cafe|Quán cà phê Paris
+snd_clock|Đồng hồ tích tắc
+snd_fan|Quạt trần quay êm
+snd_train|Tàu hỏa chạy đêm
+snd_cat_purr|Mèo thở gừ gừ
+snd_heartbeat|Nhịp tim trong bụng mẹ
+snd_airplane|Khoang máy bay
+snd_singing_bowl|Chuông xoay Tây Tạng
+snd_wind_chimes|Chuông gió
+snd_white|Tiếng ồn trắng
+snd_pink|Tiếng ồn hồng
+snd_brown|Tiếng ồn nâu
+snd_green|Tiếng ồn xanh lá
+snd_delta|Sóng Delta
+snd_theta|Sóng Theta
+snd_alpha|Sóng Alpha
+snd_beta|Sóng Beta
+snd_gamma|Sóng Gamma
+desc_white|Tiếng ồn trắng: năng lượng đều ở mọi tần số, che tốt các tiếng động đột ngột.
+desc_pink|Tiếng ồn hồng: âm cao dịu hơn, giống mưa đều. Dễ chịu khi ngủ.
+desc_brown|Tiếng ồn nâu: trầm và sâu lắng, giúp nhiều người ngủ nhanh.
+desc_green|Tiếng ồn xanh lá: tập trung ở dải trung, tự nhiên và êm.
+desc_delta|Delta 2 Hz (0,5–4 Hz): ngủ sâu.
+desc_theta|Theta 6 Hz (4–8 Hz): thiền định, mơ màng.
+desc_alpha|Alpha 10 Hz (8–14 Hz): thư giãn tỉnh táo.
+desc_beta|Beta 18 Hz (14–30 Hz): tập trung cao độ.
+desc_gamma|Gamma 40 Hz: tập trung rất cao.
+headphones_hint|Sóng não Binaural cần tai nghe: mỗi tai nghe một tần số hơi khác nhau.
+import_audio|Thêm file
+import_hint|Thêm nhạc không lời, podcast, bài giảng, file tụng kinh/thiền của bạn (MP3, M4A, FLAC, WAV, OGG). File được lặp liền mạch với crossfade. Nhấn giữ một file để đổi tên hoặc xoá.
+edit_track|Sửa âm thanh
+name|Tên
+save|Lưu
+delete|Xoá
+cancel|Huỷ
+close|Đóng
+remove|Gỡ bỏ
+rename|Đổi tên
+back|Quay lại
+play|Phát
+pause|Tạm dừng
+stop|Dừng
+skip|Bỏ qua
+clear_all|Xoá hết
+a11y_volume|Âm lượng %1$d phần trăm
+a11y_off|Tắt
+active_layers|Âm thanh đang bật
+mini_empty|Chạm vào âm thanh để bắt đầu trộn
+mini_hint|Tối đa 8 lớp, mỗi lớp một mức âm lượng riêng
+mini_layers|Đang phát %1$d âm thanh
+mini_timer|Tắt sau %1$s
+save_preset|Lưu vào yêu thích
+save_current_mix|Lưu bản trộn hiện tại
+preset_name_hint|VD: Đêm mưa Hà Nội
+my_presets|Công thức yêu thích của tôi
+no_presets|Hãy trộn vài âm thanh rồi lưu lại ở đây với tên riêng của bạn.
+curated_presets|Không gian âm thanh gợi ý
+delete_preset_q|Xoá “%1$s”?
+preset_rainy_night|Đêm mưa
+preset_deep_focus|Tập trung sâu
+preset_ocean_dream|Giấc mơ biển cả
+preset_campfire_night|Đêm lửa trại
+preset_baby_sleep|Bé ngủ ngon
+preset_cozy_cafe|Quán cà phê ấm áp
+preset_meditation|Thiền định
+preset_night_train|Chuyến tàu đêm
+preset_forest_morning|Buổi sáng trong rừng
+sleep_timer|Hẹn giờ tắt
+start_timer|Bắt đầu hẹn giờ
+cancel_timer|Huỷ hẹn giờ
+add_15|+15 phút
+timer_running|còn lại đến khi tắt
+timer_fading|đang giảm dần âm lượng…
+timer_motion_fading|có vẻ bạn đã ngủ, đang giảm âm…
+timer_no_sound_hint|Hãy chọn âm thanh ở mục Trộn âm trước.
+dial_hint|xoay vòng số
+minutes_short|phút
+hours_minutes|giờ : phút
+fade_out_title|Giảm âm lượng êm ái
+motion_title|Cảm biến tự ngắt khi ngủ
+motion_tip|Đặt điện thoại lên nệm, cạnh gối của bạn.
+motion_sensitivity|Độ nhạy
+sens_low|Thấp
+sens_medium|Vừa
+sens_high|Cao
+battery_title|Bảo vệ pin
+battery_desc|Tắt nhạc khi pin còn %1$d%% để sáng mai báo thức vẫn reo.
+battery_stop_title|Đã tắt nhạc để tiết kiệm pin
+battery_stop_text|Pin còn %1$d%%. Báo thức của bạn vẫn an toàn.
+msg_stopped_motion|Không phát hiện chuyển động: đã giảm âm và tắt. Chúc ngủ ngon.
+msg_stopped_battery|Pin yếu: đã tắt nhạc để giữ pin cho báo thức.
+msg_stopped_timer|Hẹn giờ đã kết thúc.
+msg_file_error|Không phát được file âm thanh này.
+msg_layer_limit|Bạn có thể trộn tối đa %1$d âm thanh cùng lúc.
+focus_title|Trợ lý tập trung
+plan_classic|Pomodoro 25/5
+plan_deep|Làm sâu 50/10
+focus_phase_work|Tập trung
+focus_phase_break|Nghỉ ngắn
+focus_phase_long_break|Nghỉ dài
+focus_completed|Đã xong %1$d phiên
+focus_sounds_title|Tự động đổi âm thanh
+focus_sounds_work|Khi làm việc: tiếng ồn nâu
+focus_sounds_work_pro|Khi làm việc: tiếng ồn nâu + sóng Beta
+focus_sounds_break|Khi nghỉ: suối chảy + chim hót
+zen_open|Màn hình tập trung tối giản
+zen_hint|Chạm 2 lần để thoát
+zen_switch_clock|Kiểu đồng hồ
+zen_switch_effect|Hiệu ứng
+zen_keep_screen|Giữ màn hình sáng ở chế độ Zen
+zen_keep_screen_desc|Màn hình được giảm sáng gần như đen.
+language|Ngôn ngữ
+language_system|Theo ngôn ngữ điện thoại (mặc định)
+haptics|Phản hồi rung
+haptics_desc|Rung nhẹ khi xoay vòng số.
+crossfade_title|Làm mờ chéo vòng lặp
+crossfade_desc|Hoà trộn %1$.2f giây tại điểm nối của file đã nhập.
+section_general|Chung
+section_playback|Phát nhạc
+section_sleep_safety|Giấc ngủ & pin
+section_zen|Chế độ Zen
+section_pro|SomnaLooper Pro
+section_data|Lịch sử
+section_about|Thông tin
+pro_title|Mở khoá SomnaLooper Pro
+pro_desc|Toàn bộ âm thanh, 8 lớp, cảm biến tự ngắt và bảo vệ pin.
+pro_active_title|Đã kích hoạt Pro
+pro_active_desc|Cảm ơn bạn đã ủng hộ SomnaLooper!
+pro_badge|PRO
+pro_benefit_sounds|Toàn bộ 29 âm thanh, gồm cả sóng não Binaural
+pro_benefit_layers|Trộn tối đa 8 âm thanh cùng lúc (miễn phí: 3)
+pro_benefit_sensors|Cảm biến tự ngắt khi ngủ và bảo vệ pin
+pro_benefit_support|Mua một lần dùng vĩnh viễn. Không quảng cáo, không thuê bao.
+pro_buy|Mua Pro
+pro_buy_price|Mua Pro · %1$s
+pro_unavailable|Tính năng mua chỉ có trong bản cài từ Google Play.
+restore_purchases|Khôi phục giao dịch
+dev_pro|Nhà phát triển: mở khoá Pro
+dev_pro_desc|Chỉ có ở bản debug, dùng để kiểm thử.
+history_title|Lịch sử nghe
+history_desc|Các phiên ngủ và tập trung gần đây.
+history_week|Thời gian nghe 7 ngày qua
+history_empty|Chưa có phiên nào.
+reason_motion|tắt bởi cảm biến chuyển động
+reason_battery|tắt để bảo vệ pin
+reason_timer|hẹn giờ
+privacy_title|100% trên thiết bị
+privacy_text|SomnaLooper không có máy chủ và không xin quyền truy cập Internet. Âm thanh được tạo ngay trên điện thoại; bản trộn, file và lịch sử của bạn không bao giờ rời khỏi máy.
+version_label|Phiên bản %1$s
+notif_subtitle_playing|Đang phát
+notif_timer_left|Hẹn giờ: còn %1$d phút
+channel_alerts|Cảnh báo
+@fade_minutes|other=Giảm dần trong %1$d phút cuối
+@motion_desc|other=Giảm âm sau %1$d phút không cử động
+@minutes|other=%1$d phút

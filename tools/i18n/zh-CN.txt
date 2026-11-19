@@ -1,0 +1,178 @@
+app_name|SomnaLooper
+tagline|安睡与深度专注。无广告、不耗流量、完全私密。
+tab_mixer|混音
+tab_presets|收藏
+tab_timer|定时
+tab_focus|专注
+tab_settings|设置
+cat_nature|自然
+cat_ambient|环境
+cat_noise|彩色噪音
+cat_brainwave|脑波
+cat_mine|我的声音
+snd_rain_roof|铁皮屋顶雨声
+snd_rain_forest|热带雨林
+snd_thunder|远方雷声
+snd_ocean|夜晚海浪
+snd_stream|潺潺溪流
+snd_wind|峡谷风声
+snd_leaves|树叶沙沙
+snd_birds|清晨鸟鸣
+snd_crickets|夏夜蟋蟀
+snd_underwater|水下
+snd_campfire|篝火
+snd_cafe|巴黎咖啡馆
+snd_clock|时钟滴答
+snd_fan|吊扇
+snd_train|夜行火车
+snd_cat_purr|猫咪呼噜
+snd_heartbeat|子宫心跳
+snd_airplane|飞机机舱
+snd_singing_bowl|颂钵
+snd_wind_chimes|风铃
+snd_white|白噪音
+snd_pink|粉红噪音
+snd_brown|棕色噪音
+snd_green|绿色噪音
+snd_delta|Delta 波
+snd_theta|Theta 波
+snd_alpha|Alpha 波
+snd_beta|Beta 波
+snd_gamma|Gamma 波
+desc_white|白噪音：各频率能量相同，能很好地掩盖突发声响。
+desc_pink|粉红噪音：高频更柔和，像持续的雨声，适合入睡。
+desc_brown|棕色噪音：低沉浑厚，帮助很多人快速入睡。
+desc_green|绿色噪音：集中在中频，自然平静。
+desc_delta|Delta 2 Hz（0.5–4 Hz）：深度睡眠。
+desc_theta|Theta 6 Hz（4–8 Hz）：冥想。
+desc_alpha|Alpha 10 Hz（8–14 Hz）：放松而清醒。
+desc_beta|Beta 18 Hz（14–30 Hz）：积极专注。
+desc_gamma|Gamma 40 Hz：高度专注。
+headphones_hint|双耳节拍需要耳机：两只耳朵听到略有不同的音调。
+import_audio|导入音频
+import_hint|添加你的纯音乐、播客、讲座或诵经音频（MP3、M4A、FLAC、WAV、OGG），通过交叉淡化无缝循环。长按文件可重命名或删除。
+edit_track|编辑声音
+name|名称
+save|保存
+delete|删除
+cancel|取消
+close|关闭
+remove|移除
+rename|重命名
+back|返回
+play|播放
+pause|暂停
+stop|停止
+skip|跳过
+clear_all|全部清除
+a11y_volume|音量百分之 %1$d
+a11y_off|关闭
+active_layers|正在播放的声音
+mini_empty|点按声音开始混音
+mini_hint|最多 8 层，每层音量独立
+mini_layers|正在播放 %1$d 个声音
+mini_timer|%1$s 后停止
+save_preset|保存到收藏
+save_current_mix|保存当前混音
+preset_name_hint|例如：河内雨夜
+my_presets|我的收藏
+no_presets|混合一些声音，然后用你自己的名字保存在这里。
+curated_presets|推荐声景
+delete_preset_q|删除“%1$s”？
+preset_rainy_night|雨夜
+preset_deep_focus|深度专注
+preset_ocean_dream|海洋之梦
+preset_campfire_night|篝火之夜
+preset_baby_sleep|宝宝安睡
+preset_cozy_cafe|温馨咖啡馆
+preset_meditation|冥想
+preset_night_train|夜行列车
+preset_forest_morning|森林清晨
+sleep_timer|睡眠定时
+start_timer|开始定时
+cancel_timer|取消定时
+add_15|+15 分钟
+timer_running|直到安静
+timer_fading|正在缓缓减弱…
+timer_motion_fading|你似乎已入睡，正在减弱…
+timer_no_sound_hint|请先在混音页选择声音。
+dial_hint|转动旋钮
+minutes_short|分钟
+hours_minutes|时 : 分
+fade_out_title|柔和淡出
+motion_title|睡眠体动自动停止
+motion_tip|将手机放在枕边的床垫上。
+motion_sensitivity|灵敏度
+sens_low|低
+sens_medium|中
+sens_high|高
+battery_title|电池保护
+battery_desc|电量降至 %1$d%% 时停止播放，确保早上闹钟响起。
+battery_stop_title|为节省电量已停止播放
+battery_stop_text|电量 %1$d%%，闹钟不受影响。
+msg_stopped_motion|未检测到动作：声音已淡出。晚安。
+msg_stopped_battery|电量低：已停止播放以保护闹钟。
+msg_stopped_timer|睡眠定时已结束。
+msg_file_error|无法播放此音频文件。
+msg_layer_limit|最多可同时混合 %1$d 个声音。
+focus_title|专注伙伴
+plan_classic|番茄钟 25/5
+plan_deep|深度工作 50/10
+focus_phase_work|专注
+focus_phase_break|休息
+focus_phase_long_break|长休息
+focus_completed|已完成 %1$d 轮
+focus_sounds_title|自动切换声音
+focus_sounds_work|专注时：棕色噪音
+focus_sounds_work_pro|专注时：棕色噪音 + Beta 波
+focus_sounds_break|休息时：溪流 + 鸟鸣
+zen_open|禅意显示
+zen_hint|双击退出
+zen_switch_clock|时钟样式
+zen_switch_effect|动画
+zen_keep_screen|禅模式下保持屏幕常亮
+zen_keep_screen_desc|屏幕会调暗到接近全黑。
+language|语言
+language_system|跟随手机语言（默认）
+haptics|触感反馈
+haptics_desc|转动旋钮时轻微振动。
+crossfade_title|循环交叉淡化
+crossfade_desc|在导入文件的循环点混合 %1$.2f 秒。
+section_general|通用
+section_playback|播放
+section_sleep_safety|睡眠与电池
+section_zen|禅模式
+section_pro|SomnaLooper Pro
+section_data|历史
+section_about|关于
+pro_title|解锁 SomnaLooper Pro
+pro_desc|全部声音、8 层混音、体动停止和电池保护。
+pro_active_title|Pro 已激活
+pro_active_desc|感谢你支持 SomnaLooper！
+pro_badge|PRO
+pro_benefit_sounds|全部 29 种声音，包含双耳节拍
+pro_benefit_layers|最多同时混合 8 个声音（免费版：3）
+pro_benefit_sensors|睡眠体动自动停止和电池保护
+pro_benefit_support|一次购买，永久使用。无广告、无订阅。
+pro_buy|购买 Pro
+pro_buy_price|购买 Pro · %1$s
+pro_unavailable|购买功能仅在 Google Play 版本中提供。
+restore_purchases|恢复购买
+dev_pro|开发者：解锁 Pro
+dev_pro_desc|仅限调试版本，用于测试。
+history_title|收听历史
+history_desc|最近的睡眠与专注记录。
+history_week|最近 7 天收听时长
+history_empty|暂无记录。
+reason_motion|由体动传感器停止
+reason_battery|为省电停止
+reason_timer|睡眠定时
+privacy_title|100% 本地运行
+privacy_text|SomnaLooper 没有服务器，也不申请网络权限。声音在手机上实时生成，你的混音、文件和历史永远不会离开设备。
+version_label|版本 %1$s
+notif_subtitle_playing|正在播放
+notif_timer_left|睡眠定时：剩余 %1$d 分钟
+channel_alerts|提醒
+@fade_minutes|other=在最后 %1$d 分钟内淡出
+@motion_desc|other=%1$d 分钟无动作后淡出
+@minutes|other=%1$d 分钟

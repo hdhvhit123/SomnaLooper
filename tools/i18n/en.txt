@@ -1,0 +1,178 @@
+app_name|SomnaLooper
+tagline|Sleep well & focus deep. No ads, no data, fully private.
+tab_mixer|Mixer
+tab_presets|Presets
+tab_timer|Timer
+tab_focus|Focus
+tab_settings|Settings
+cat_nature|Nature
+cat_ambient|Ambient
+cat_noise|Noise colors
+cat_brainwave|Brainwaves
+cat_mine|My sounds
+snd_rain_roof|Rain on a tin roof
+snd_rain_forest|Tropical rainforest
+snd_thunder|Distant thunder
+snd_ocean|Night ocean waves
+snd_stream|Babbling brook
+snd_wind|Canyon wind
+snd_leaves|Rustling leaves
+snd_birds|Morning birds
+snd_crickets|Summer crickets
+snd_underwater|Underwater
+snd_campfire|Campfire
+snd_cafe|Paris café
+snd_clock|Ticking clock
+snd_fan|Ceiling fan
+snd_train|Night train
+snd_cat_purr|Purring cat
+snd_heartbeat|Womb heartbeat
+snd_airplane|Airplane cabin
+snd_singing_bowl|Singing bowl
+snd_wind_chimes|Wind chimes
+snd_white|White noise
+snd_pink|Pink noise
+snd_brown|Brown noise
+snd_green|Green noise
+snd_delta|Delta waves
+snd_theta|Theta waves
+snd_alpha|Alpha waves
+snd_beta|Beta waves
+snd_gamma|Gamma waves
+desc_white|White noise: equal energy at every frequency. Masks sudden sounds well.
+desc_pink|Pink noise: softer highs, like steady rain. Pleasant for sleep.
+desc_brown|Brown noise: deep and rumbling. Helps many people fall asleep fast.
+desc_green|Green noise: centered around mid frequencies, natural and calm.
+desc_delta|Delta 2 Hz (0.5–4 Hz): deep sleep.
+desc_theta|Theta 6 Hz (4–8 Hz): meditation and drowsiness.
+desc_alpha|Alpha 10 Hz (8–14 Hz): relaxed alertness.
+desc_beta|Beta 18 Hz (14–30 Hz): active focus.
+desc_gamma|Gamma 40 Hz: high concentration.
+headphones_hint|Binaural beats need headphones: each ear hears a slightly different tone.
+import_audio|Import audio
+import_hint|Add your own instrumental music, podcasts, lectures or chants (MP3, M4A, FLAC, WAV, OGG). They loop seamlessly with a crossfade. Long-press a file to rename or remove it.
+edit_track|Edit sound
+name|Name
+save|Save
+delete|Delete
+cancel|Cancel
+close|Close
+remove|Remove
+rename|Rename
+back|Back
+play|Play
+pause|Pause
+stop|Stop
+skip|Skip
+clear_all|Clear all
+a11y_volume|Volume %1$d percent
+a11y_off|Off
+active_layers|Active sounds
+mini_empty|Tap sounds to build your mix
+mini_hint|Up to 8 layers, each with its own volume
+mini_layers|%1$d sounds playing
+mini_timer|Stops in %1$s
+save_preset|Save as favourite
+save_current_mix|Save current mix
+preset_name_hint|e.g. Rainy night in Hanoi
+my_presets|My favourites
+no_presets|Mix some sounds, then save them here with your own name.
+curated_presets|Curated soundscapes
+delete_preset_q|Delete “%1$s”?
+preset_rainy_night|Rainy night
+preset_deep_focus|Deep focus
+preset_ocean_dream|Ocean dream
+preset_campfire_night|Campfire night
+preset_baby_sleep|Baby sleep
+preset_cozy_cafe|Cozy café
+preset_meditation|Meditation
+preset_night_train|Night train
+preset_forest_morning|Forest morning
+sleep_timer|Sleep timer
+start_timer|Start timer
+cancel_timer|Cancel timer
+add_15|+15 min
+timer_running|until silence
+timer_fading|fading out gently…
+timer_motion_fading|you seem asleep, fading out…
+timer_no_sound_hint|Pick some sounds in the Mixer first.
+dial_hint|turn the dial
+minutes_short|min
+hours_minutes|h : min
+fade_out_title|Smooth fade-out
+motion_title|Sleep motion auto-stop
+motion_tip|Place the phone on the mattress near your pillow.
+motion_sensitivity|Sensitivity
+sens_low|Low
+sens_medium|Medium
+sens_high|High
+battery_title|Battery safeguard
+battery_desc|Stop playback when the battery drops to %1$d%% so your morning alarm still rings.
+battery_stop_title|Playback stopped to save battery
+battery_stop_text|Battery at %1$d%%. Your alarm is safe.
+msg_stopped_motion|No movement detected: sound faded out. Sleep well.
+msg_stopped_battery|Battery low: playback stopped to protect your alarm.
+msg_stopped_timer|Sleep timer finished.
+msg_file_error|This audio file could not be played.
+msg_layer_limit|You can mix up to %1$d sounds at once.
+focus_title|Focus companion
+plan_classic|Pomodoro 25/5
+plan_deep|Deep work 50/10
+focus_phase_work|Focus
+focus_phase_break|Break
+focus_phase_long_break|Long break
+focus_completed|%1$d sessions completed
+focus_sounds_title|Automatic sound switching
+focus_sounds_work|While focusing: brown noise
+focus_sounds_work_pro|While focusing: brown noise + beta waves
+focus_sounds_break|During breaks: babbling brook + morning birds
+zen_open|Zen ambient display
+zen_hint|Double-tap to leave
+zen_switch_clock|Clock style
+zen_switch_effect|Animation
+zen_keep_screen|Keep screen on in Zen mode
+zen_keep_screen_desc|The display is dimmed to near black.
+language|Language
+language_system|Phone language (default)
+haptics|Haptic feedback
+haptics_desc|Gentle ticks when turning dials.
+crossfade_title|Loop crossfade
+crossfade_desc|%1$.2f s blend at the loop point of imported files.
+section_general|General
+section_playback|Playback
+section_sleep_safety|Sleep & battery
+section_zen|Zen mode
+section_pro|SomnaLooper Pro
+section_data|History
+section_about|About
+pro_title|Unlock SomnaLooper Pro
+pro_desc|All sounds, 8 layers, motion auto-stop and battery safeguard.
+pro_active_title|Pro is active
+pro_active_desc|Thank you for supporting SomnaLooper!
+pro_badge|PRO
+pro_benefit_sounds|All 29 sounds, including binaural beats
+pro_benefit_layers|Mix up to 8 sounds at once (free: 3)
+pro_benefit_sensors|Sleep motion auto-stop and battery safeguard
+pro_benefit_support|One-time purchase, yours forever. No ads, no subscription.
+pro_buy|Buy Pro
+pro_buy_price|Buy Pro · %1$s
+pro_unavailable|Purchases are available in the Google Play version of the app.
+restore_purchases|Restore purchases
+dev_pro|Developer: unlock Pro
+dev_pro_desc|Debug builds only, for testing.
+history_title|Listening history
+history_desc|Your recent sleep and focus sessions.
+history_week|Listening time, last 7 days
+history_empty|No sessions yet.
+reason_motion|stopped by motion sensor
+reason_battery|stopped to save battery
+reason_timer|sleep timer
+privacy_title|100% on-device
+privacy_text|SomnaLooper has no servers and no internet permission. Sounds are generated on your phone, and your mixes, files and history never leave it.
+version_label|Version %1$s
+notif_subtitle_playing|Playing
+notif_timer_left|Sleep timer: %1$d min left
+channel_alerts|Alerts
+@fade_minutes|one=Fade out over the last %1$d minute|other=Fade out over the last %1$d minutes
+@motion_desc|one=Fade out after %1$d minute without movement|other=Fade out after %1$d minutes without movement
+@minutes|one=%1$d min|other=%1$d min
