@@ -1,0 +1,178 @@
+app_name|SomnaLooper
+tagline|Śpij dobrze i skup się głęboko. Bez reklam, bez danych, w pełni prywatnie.
+tab_mixer|Mikser
+tab_presets|Ulubione
+tab_timer|Minutnik
+tab_focus|Skupienie
+tab_settings|Ustawienia
+cat_nature|Natura
+cat_ambient|Otoczenie
+cat_noise|Kolorowe szumy
+cat_brainwave|Fale mózgowe
+cat_mine|Moje dźwięki
+snd_rain_roof|Deszcz na blaszanym dachu
+snd_rain_forest|Las tropikalny
+snd_thunder|Odległa burza
+snd_ocean|Nocne fale oceanu
+snd_stream|Szemrzący strumyk
+snd_wind|Wiatr w kanionie
+snd_leaves|Szelest liści
+snd_birds|Poranne ptaki
+snd_crickets|Letnie świerszcze
+snd_underwater|Pod wodą
+snd_campfire|Ognisko
+snd_cafe|Paryska kawiarnia
+snd_clock|Tykający zegar
+snd_fan|Wentylator sufitowy
+snd_train|Nocny pociąg
+snd_cat_purr|Mruczący kot
+snd_heartbeat|Bicie serca w łonie
+snd_airplane|Kabina samolotu
+snd_singing_bowl|Misa tybetańska
+snd_wind_chimes|Dzwonki wietrzne
+snd_white|Biały szum
+snd_pink|Różowy szum
+snd_brown|Brązowy szum
+snd_green|Zielony szum
+snd_delta|Fale delta
+snd_theta|Fale theta
+snd_alpha|Fale alfa
+snd_beta|Fale beta
+snd_gamma|Fale gamma
+desc_white|Biały szum: równa energia na wszystkich częstotliwościach. Maskuje nagłe dźwięki.
+desc_pink|Różowy szum: łagodniejsze wysokie tony, jak równy deszcz. Przyjemny do snu.
+desc_brown|Brązowy szum: głęboki i dudniący. Pomaga szybko zasnąć.
+desc_green|Zielony szum: skupiony na średnich częstotliwościach, naturalny i spokojny.
+desc_delta|Delta 2 Hz (0,5–4 Hz): głęboki sen.
+desc_theta|Theta 6 Hz (4–8 Hz): medytacja.
+desc_alpha|Alfa 10 Hz (8–14 Hz): zrelaksowana czujność.
+desc_beta|Beta 18 Hz (14–30 Hz): aktywne skupienie.
+desc_gamma|Gamma 40 Hz: wysoka koncentracja.
+headphones_hint|Rytmy binauralne wymagają słuchawek: każde ucho słyszy nieco inny ton.
+import_audio|Importuj audio
+import_hint|Dodaj własną muzykę instrumentalną, podcasty, wykłady lub śpiewy (MP3, M4A, FLAC, WAV, OGG). Zapętlają się płynnie z przenikaniem. Przytrzymaj, aby zmienić nazwę lub usunąć.
+edit_track|Edytuj dźwięk
+name|Nazwa
+save|Zapisz
+delete|Usuń
+cancel|Anuluj
+close|Zamknij
+remove|Usuń z miksu
+rename|Zmień nazwę
+back|Wstecz
+play|Odtwórz
+pause|Pauza
+stop|Zatrzymaj
+skip|Pomiń
+clear_all|Wyczyść wszystko
+a11y_volume|Głośność %1$d procent
+a11y_off|Wyłączony
+active_layers|Aktywne dźwięki
+mini_empty|Dotknij dźwięków, aby stworzyć miks
+mini_hint|Do 8 warstw, każda z własną głośnością
+mini_layers|Odtwarzane dźwięki: %1$d
+mini_timer|Zatrzyma się za %1$s
+save_preset|Zapisz w ulubionych
+save_current_mix|Zapisz obecny miks
+preset_name_hint|np. Deszczowa noc
+my_presets|Moje ulubione
+no_presets|Zmiksuj kilka dźwięków i zapisz je tutaj pod własną nazwą.
+curated_presets|Polecane pejzaże dźwiękowe
+delete_preset_q|Usunąć „%1$s”?
+preset_rainy_night|Deszczowa noc
+preset_deep_focus|Głębokie skupienie
+preset_ocean_dream|Oceaniczny sen
+preset_campfire_night|Noc przy ognisku
+preset_baby_sleep|Sen niemowlęcia
+preset_cozy_cafe|Przytulna kawiarnia
+preset_meditation|Medytacja
+preset_night_train|Nocny pociąg
+preset_forest_morning|Poranek w lesie
+sleep_timer|Wyłącznik czasowy
+start_timer|Uruchom minutnik
+cancel_timer|Anuluj minutnik
+add_15|+15 min
+timer_running|do ciszy
+timer_fading|łagodnie cichnie…
+timer_motion_fading|chyba śpisz, ściszam…
+timer_no_sound_hint|Najpierw wybierz dźwięki w Mikserze.
+dial_hint|przekręć pokrętło
+minutes_short|min
+hours_minutes|godz. : min
+fade_out_title|Łagodne wyciszanie
+motion_title|Autostop przy braku ruchu
+motion_tip|Połóż telefon na materacu obok poduszki.
+motion_sensitivity|Czułość
+sens_low|Niska
+sens_medium|Średnia
+sens_high|Wysoka
+battery_title|Ochrona baterii
+battery_desc|Zatrzymaj odtwarzanie przy %1$d%% baterii, aby budzik zadzwonił.
+battery_stop_title|Odtwarzanie zatrzymane, aby oszczędzać baterię
+battery_stop_text|Bateria %1$d%%. Twój budzik jest bezpieczny.
+msg_stopped_motion|Brak ruchu: dźwięk wyciszony. Dobranoc.
+msg_stopped_battery|Słaba bateria: odtwarzanie zatrzymane, by chronić budzik.
+msg_stopped_timer|Wyłącznik czasowy zakończył działanie.
+msg_file_error|Nie można odtworzyć tego pliku audio.
+msg_layer_limit|Możesz miksować do %1$d dźwięków naraz.
+focus_title|Towarzysz skupienia
+plan_classic|Pomodoro 25/5
+plan_deep|Głęboka praca 50/10
+focus_phase_work|Skupienie
+focus_phase_break|Przerwa
+focus_phase_long_break|Długa przerwa
+focus_completed|Ukończone sesje: %1$d
+focus_sounds_title|Automatyczna zmiana dźwięków
+focus_sounds_work|Podczas pracy: brązowy szum
+focus_sounds_work_pro|Podczas pracy: brązowy szum + fale beta
+focus_sounds_break|W przerwach: strumyk + ptaki
+zen_open|Ekran Zen
+zen_hint|Dotknij dwukrotnie, aby wyjść
+zen_switch_clock|Styl zegara
+zen_switch_effect|Animacja
+zen_keep_screen|Nie wygaszaj ekranu w trybie Zen
+zen_keep_screen_desc|Ekran jest przyciemniany prawie do czerni.
+language|Język
+language_system|Język telefonu (domyślny)
+haptics|Wibracje
+haptics_desc|Delikatne wibracje przy obracaniu pokręteł.
+crossfade_title|Przenikanie pętli
+crossfade_desc|Przenikanie %1$.2f s w punkcie pętli importowanych plików.
+section_general|Ogólne
+section_playback|Odtwarzanie
+section_sleep_safety|Sen i bateria
+section_zen|Tryb Zen
+section_pro|SomnaLooper Pro
+section_data|Historia
+section_about|Informacje
+pro_title|Odblokuj SomnaLooper Pro
+pro_desc|Wszystkie dźwięki, 8 warstw, autostop i ochrona baterii.
+pro_active_title|Pro jest aktywne
+pro_active_desc|Dziękujemy za wsparcie SomnaLooper!
+pro_badge|PRO
+pro_benefit_sounds|Wszystkie 29 dźwięków, w tym rytmy binauralne
+pro_benefit_layers|Miksuj do 8 dźwięków naraz (za darmo: 3)
+pro_benefit_sensors|Autostop przy braku ruchu i ochrona baterii
+pro_benefit_support|Jednorazowy zakup na zawsze. Bez reklam i subskrypcji.
+pro_buy|Kup Pro
+pro_buy_price|Kup Pro · %1$s
+pro_unavailable|Zakupy są dostępne w wersji z Google Play.
+restore_purchases|Przywróć zakupy
+dev_pro|Deweloper: odblokuj Pro
+dev_pro_desc|Tylko wersje debug, do testów.
+history_title|Historia słuchania
+history_desc|Twoje ostatnie sesje snu i skupienia.
+history_week|Czas słuchania, ostatnie 7 dni
+history_empty|Brak sesji.
+reason_motion|zatrzymane przez czujnik ruchu
+reason_battery|zatrzymane, by oszczędzać baterię
+reason_timer|wyłącznik czasowy
+privacy_title|100% na urządzeniu
+privacy_text|SomnaLooper nie ma serwerów ani uprawnień do internetu. Dźwięki powstają w telefonie, a Twoje miksy, pliki i historia nigdy go nie opuszczają.
+version_label|Wersja %1$s
+notif_subtitle_playing|Odtwarzanie
+notif_timer_left|Wyłącznik: zostało %1$d min
+channel_alerts|Powiadomienia
+@fade_minutes|one=Wyciszaj przez ostatnią %1$d minutę|few=Wyciszaj przez ostatnie %1$d minuty|many=Wyciszaj przez ostatnie %1$d minut|other=Wyciszaj przez ostatnie %1$d minuty
+@motion_desc|one=Wycisz po %1$d minucie bez ruchu|few=Wycisz po %1$d minutach bez ruchu|many=Wycisz po %1$d minutach bez ruchu|other=Wycisz po %1$d minuty bez ruchu
+@minutes|one=%1$d min|few=%1$d min|many=%1$d min|other=%1$d min

@@ -1,0 +1,178 @@
+app_name|SomnaLooper
+tagline|Goed slapen en diep focussen. Geen reclame, geen data, volledig privé.
+tab_mixer|Mixer
+tab_presets|Favorieten
+tab_timer|Timer
+tab_focus|Focus
+tab_settings|Instellingen
+cat_nature|Natuur
+cat_ambient|Sfeer
+cat_noise|Gekleurde ruis
+cat_brainwave|Hersengolven
+cat_mine|Mijn geluiden
+snd_rain_roof|Regen op een golfplaten dak
+snd_rain_forest|Tropisch regenwoud
+snd_thunder|Verre donder
+snd_ocean|Nachtelijke golven
+snd_stream|Kabbelende beek
+snd_wind|Wind in de kloof
+snd_leaves|Ritselende bladeren
+snd_birds|Ochtendvogels
+snd_crickets|Zomerkrekels
+snd_underwater|Onder water
+snd_campfire|Kampvuur
+snd_cafe|Parijs café
+snd_clock|Tikkende klok
+snd_fan|Plafondventilator
+snd_train|Nachttrein
+snd_cat_purr|Spinnende kat
+snd_heartbeat|Hartslag in de baarmoeder
+snd_airplane|Vliegtuigcabine
+snd_singing_bowl|Klankschaal
+snd_wind_chimes|Windgong
+snd_white|Witte ruis
+snd_pink|Roze ruis
+snd_brown|Bruine ruis
+snd_green|Groene ruis
+snd_delta|Deltagolven
+snd_theta|Thetagolven
+snd_alpha|Alfagolven
+snd_beta|Bètagolven
+snd_gamma|Gammagolven
+desc_white|Witte ruis: gelijke energie op alle frequenties. Maskeert plotselinge geluiden.
+desc_pink|Roze ruis: zachtere hoge tonen, als gestage regen. Prettig om bij te slapen.
+desc_brown|Bruine ruis: diep en rommelend. Helpt veel mensen snel in slaap te vallen.
+desc_green|Groene ruis: gericht op het middengebied, natuurlijk en rustig.
+desc_delta|Delta 2 Hz (0,5–4 Hz): diepe slaap.
+desc_theta|Theta 6 Hz (4–8 Hz): meditatie.
+desc_alpha|Alfa 10 Hz (8–14 Hz): ontspannen alertheid.
+desc_beta|Bèta 18 Hz (14–30 Hz): actieve focus.
+desc_gamma|Gamma 40 Hz: hoge concentratie.
+headphones_hint|Binaurale beats vereisen een koptelefoon: elk oor hoort een iets andere toon.
+import_audio|Audio importeren
+import_hint|Voeg je eigen instrumentale muziek, podcasts, colleges of gezangen toe (MP3, M4A, FLAC, WAV, OGG). Ze lopen naadloos door met crossfade. Lang indrukken om te hernoemen of te verwijderen.
+edit_track|Geluid bewerken
+name|Naam
+save|Opslaan
+delete|Verwijderen
+cancel|Annuleren
+close|Sluiten
+remove|Weghalen
+rename|Hernoemen
+back|Terug
+play|Afspelen
+pause|Pauzeren
+stop|Stoppen
+skip|Overslaan
+clear_all|Alles wissen
+a11y_volume|Volume %1$d procent
+a11y_off|Uit
+active_layers|Actieve geluiden
+mini_empty|Tik op geluiden om je mix te maken
+mini_hint|Tot 8 lagen, elk met eigen volume
+mini_layers|%1$d geluiden spelen
+mini_timer|Stopt over %1$s
+save_preset|Opslaan als favoriet
+save_current_mix|Huidige mix opslaan
+preset_name_hint|bv. Regenachtige nacht
+my_presets|Mijn favorieten
+no_presets|Mix een paar geluiden en sla ze hier op met je eigen naam.
+curated_presets|Aanbevolen klanklandschappen
+delete_preset_q|“%1$s” verwijderen?
+preset_rainy_night|Regenachtige nacht
+preset_deep_focus|Diepe focus
+preset_ocean_dream|Oceaandroom
+preset_campfire_night|Kampvuuravond
+preset_baby_sleep|Babyslaap
+preset_cozy_cafe|Gezellig café
+preset_meditation|Meditatie
+preset_night_train|Nachttrein
+preset_forest_morning|Ochtend in het bos
+sleep_timer|Slaaptimer
+start_timer|Timer starten
+cancel_timer|Timer annuleren
+add_15|+15 min
+timer_running|tot stilte
+timer_fading|wordt zacht stiller…
+timer_motion_fading|je lijkt te slapen, wordt stiller…
+timer_no_sound_hint|Kies eerst geluiden in de Mixer.
+dial_hint|draai aan de knop
+minutes_short|min
+hours_minutes|u : min
+fade_out_title|Zacht uitfaden
+motion_title|Automatisch stoppen bij stilliggen
+motion_tip|Leg de telefoon op het matras naast je kussen.
+motion_sensitivity|Gevoeligheid
+sens_low|Laag
+sens_medium|Gemiddeld
+sens_high|Hoog
+battery_title|Batterijbescherming
+battery_desc|Stop met afspelen bij %1$d%% batterij zodat je wekker gaat.
+battery_stop_title|Afspelen gestopt om batterij te sparen
+battery_stop_text|Batterij op %1$d%%. Je wekker is veilig.
+msg_stopped_motion|Geen beweging: geluid uitgefaded. Slaap lekker.
+msg_stopped_battery|Batterij bijna leeg: afspelen gestopt om je wekker te beschermen.
+msg_stopped_timer|Slaaptimer afgelopen.
+msg_file_error|Dit audiobestand kan niet worden afgespeeld.
+msg_layer_limit|Je kunt tot %1$d geluiden tegelijk mixen.
+focus_title|Focusmaatje
+plan_classic|Pomodoro 25/5
+plan_deep|Diep werk 50/10
+focus_phase_work|Focus
+focus_phase_break|Pauze
+focus_phase_long_break|Lange pauze
+focus_completed|%1$d sessies voltooid
+focus_sounds_title|Automatisch geluid wisselen
+focus_sounds_work|Tijdens focus: bruine ruis
+focus_sounds_work_pro|Tijdens focus: bruine ruis + bètagolven
+focus_sounds_break|Tijdens pauzes: beek + vogels
+zen_open|Zen-scherm
+zen_hint|Dubbeltik om te verlaten
+zen_switch_clock|Klokstijl
+zen_switch_effect|Animatie
+zen_keep_screen|Scherm aan houden in Zen-modus
+zen_keep_screen_desc|Het scherm wordt bijna zwart gedimd.
+language|Taal
+language_system|Taal van de telefoon (standaard)
+haptics|Haptische feedback
+haptics_desc|Zachte tikjes bij het draaien aan knoppen.
+crossfade_title|Crossfade van de lus
+crossfade_desc|%1$.2f s overgang op het luspunt van geïmporteerde bestanden.
+section_general|Algemeen
+section_playback|Afspelen
+section_sleep_safety|Slaap en batterij
+section_zen|Zen-modus
+section_pro|SomnaLooper Pro
+section_data|Geschiedenis
+section_about|Over
+pro_title|SomnaLooper Pro ontgrendelen
+pro_desc|Alle geluiden, 8 lagen, bewegingsstop en batterijbescherming.
+pro_active_title|Pro is actief
+pro_active_desc|Bedankt voor je steun aan SomnaLooper!
+pro_badge|PRO
+pro_benefit_sounds|Alle 29 geluiden, inclusief binaurale beats
+pro_benefit_layers|Mix tot 8 geluiden tegelijk (gratis: 3)
+pro_benefit_sensors|Automatisch stoppen bij stilliggen en batterijbescherming
+pro_benefit_support|Eenmalige aankoop, voor altijd. Geen reclame, geen abonnement.
+pro_buy|Pro kopen
+pro_buy_price|Pro kopen · %1$s
+pro_unavailable|Aankopen zijn beschikbaar in de Google Play-versie.
+restore_purchases|Aankopen herstellen
+dev_pro|Ontwikkelaar: Pro ontgrendelen
+dev_pro_desc|Alleen debug-builds, om te testen.
+history_title|Luistergeschiedenis
+history_desc|Je recente slaap- en focussessies.
+history_week|Luistertijd, laatste 7 dagen
+history_empty|Nog geen sessies.
+reason_motion|gestopt door bewegingssensor
+reason_battery|gestopt om batterij te sparen
+reason_timer|slaaptimer
+privacy_title|100% op het apparaat
+privacy_text|SomnaLooper heeft geen servers en geen internettoestemming. Geluiden worden op je telefoon gemaakt; je mixen, bestanden en geschiedenis verlaten hem nooit.
+version_label|Versie %1$s
+notif_subtitle_playing|Speelt af
+notif_timer_left|Slaaptimer: nog %1$d min
+channel_alerts|Meldingen
+@fade_minutes|one=Uitfaden in de laatste %1$d minuut|other=Uitfaden in de laatste %1$d minuten
+@motion_desc|one=Uitfaden na %1$d minuut zonder beweging|other=Uitfaden na %1$d minuten zonder beweging
+@minutes|one=%1$d min|other=%1$d min

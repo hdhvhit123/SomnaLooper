@@ -6,7 +6,9 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 RES = os.path.join(HERE, '..', '..', 'app', 'src', 'main', 'res')
 DIRS = {'en': 'values', 'vi': 'values-vi', 'es': 'values-es', 'fr': 'values-fr', 'de': 'values-de',
         'pt-BR': 'values-pt-rBR', 'ru': 'values-ru', 'ja': 'values-ja', 'ko': 'values-ko',
-        'zh-CN': 'values-zh-rCN', 'id': 'values-in', 'th': 'values-th'}
+        'zh-CN': 'values-zh-rCN', 'id': 'values-in', 'th': 'values-th',
+        'zh-TW': 'values-zh-rTW', 'hi': 'values-hi', 'ar': 'values-ar', 'it': 'values-it', 'tr': 'values-tr',
+        'pl': 'values-pl', 'nl': 'values-nl', 'ms': 'values-ms'}
 PH = re.compile(r'%\d\$[-#+ 0,(]*\d*(?:\.\d+)?[a-zA-Z]|%%')
 
 def esc(s):
@@ -59,4 +61,9 @@ for lang, d in DIRS.items():
     out.append('</resources>\n')
     os.makedirs(os.path.join(RES, d), exist_ok=True)
     open(os.path.join(RES, d, 'strings.xml'), 'w', encoding='utf-8').write('\n'.join(out))
+# Hong Kong / Macau users get Traditional Chinese too.
+import shutil
+for extra in ('values-zh-rHK', 'values-zh-rMO'):
+    os.makedirs(os.path.join(RES, extra), exist_ok=True)
+    shutil.copy(os.path.join(RES, 'values-zh-rTW', 'strings.xml'), os.path.join(RES, extra, 'strings.xml'))
 print('OK' if ok else 'ERRORS'); sys.exit(0 if ok else 1)

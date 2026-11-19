@@ -1,0 +1,178 @@
+app_name|SomnaLooper
+tagline|Dormi bene e concentrati a fondo. Niente pubblicità, niente dati, totale privacy.
+tab_mixer|Mixer
+tab_presets|Preferiti
+tab_timer|Timer
+tab_focus|Focus
+tab_settings|Impostazioni
+cat_nature|Natura
+cat_ambient|Ambiente
+cat_noise|Rumori colorati
+cat_brainwave|Onde cerebrali
+cat_mine|I miei suoni
+snd_rain_roof|Pioggia sul tetto di lamiera
+snd_rain_forest|Foresta tropicale
+snd_thunder|Tuoni lontani
+snd_ocean|Onde notturne
+snd_stream|Ruscello
+snd_wind|Vento nel canyon
+snd_leaves|Fruscio di foglie
+snd_birds|Uccelli del mattino
+snd_crickets|Grilli d’estate
+snd_underwater|Sott’acqua
+snd_campfire|Falò
+snd_cafe|Caffè parigino
+snd_clock|Orologio
+snd_fan|Ventilatore a soffitto
+snd_train|Treno notturno
+snd_cat_purr|Gatto che fa le fusa
+snd_heartbeat|Battito nel grembo
+snd_airplane|Cabina d’aereo
+snd_singing_bowl|Campana tibetana
+snd_wind_chimes|Scacciapensieri
+snd_white|Rumore bianco
+snd_pink|Rumore rosa
+snd_brown|Rumore marrone
+snd_green|Rumore verde
+snd_delta|Onde Delta
+snd_theta|Onde Theta
+snd_alpha|Onde Alfa
+snd_beta|Onde Beta
+snd_gamma|Onde Gamma
+desc_white|Rumore bianco: stessa energia a tutte le frequenze. Copre i rumori improvvisi.
+desc_pink|Rumore rosa: acuti più morbidi, come pioggia costante. Piacevole per dormire.
+desc_brown|Rumore marrone: profondo e cupo. Aiuta ad addormentarsi in fretta.
+desc_green|Rumore verde: centrato sulle frequenze medie, naturale e calmo.
+desc_delta|Delta 2 Hz (0,5–4 Hz): sonno profondo.
+desc_theta|Theta 6 Hz (4–8 Hz): meditazione.
+desc_alpha|Alfa 10 Hz (8–14 Hz): rilassamento vigile.
+desc_beta|Beta 18 Hz (14–30 Hz): concentrazione attiva.
+desc_gamma|Gamma 40 Hz: alta concentrazione.
+headphones_hint|I battiti binaurali richiedono le cuffie: ogni orecchio sente un tono leggermente diverso.
+import_audio|Importa audio
+import_hint|Aggiungi la tua musica strumentale, podcast, lezioni o canti (MP3, M4A, FLAC, WAV, OGG). Si ripetono senza interruzioni con dissolvenza incrociata. Tieni premuto per rinominare o rimuovere.
+edit_track|Modifica suono
+name|Nome
+save|Salva
+delete|Elimina
+cancel|Annulla
+close|Chiudi
+remove|Rimuovi
+rename|Rinomina
+back|Indietro
+play|Riproduci
+pause|Pausa
+stop|Stop
+skip|Salta
+clear_all|Cancella tutto
+a11y_volume|Volume %1$d per cento
+a11y_off|Spento
+active_layers|Suoni attivi
+mini_empty|Tocca i suoni per creare il tuo mix
+mini_hint|Fino a 8 livelli, ognuno con il suo volume
+mini_layers|%1$d suoni in riproduzione
+mini_timer|Si ferma tra %1$s
+save_preset|Salva nei preferiti
+save_current_mix|Salva mix attuale
+preset_name_hint|es. Notte di pioggia
+my_presets|I miei preferiti
+no_presets|Mescola alcuni suoni e salvali qui con un nome tuo.
+curated_presets|Paesaggi sonori consigliati
+delete_preset_q|Eliminare «%1$s»?
+preset_rainy_night|Notte di pioggia
+preset_deep_focus|Concentrazione profonda
+preset_ocean_dream|Sogno oceanico
+preset_campfire_night|Notte al falò
+preset_baby_sleep|Nanna del bebè
+preset_cozy_cafe|Caffè accogliente
+preset_meditation|Meditazione
+preset_night_train|Treno notturno
+preset_forest_morning|Mattino nel bosco
+sleep_timer|Timer del sonno
+start_timer|Avvia timer
+cancel_timer|Annulla timer
+add_15|+15 min
+timer_running|al silenzio
+timer_fading|sfumando dolcemente…
+timer_motion_fading|sembri addormentato, sfumando…
+timer_no_sound_hint|Scegli prima dei suoni nel Mixer.
+dial_hint|ruota la manopola
+minutes_short|min
+hours_minutes|h : min
+fade_out_title|Dissolvenza dolce
+motion_title|Stop automatico da movimento
+motion_tip|Appoggia il telefono sul materasso vicino al cuscino.
+motion_sensitivity|Sensibilità
+sens_low|Bassa
+sens_medium|Media
+sens_high|Alta
+battery_title|Protezione batteria
+battery_desc|Ferma la riproduzione al %1$d%% di batteria così la sveglia suona.
+battery_stop_title|Riproduzione fermata per risparmiare batteria
+battery_stop_text|Batteria al %1$d%%. La sveglia è al sicuro.
+msg_stopped_motion|Nessun movimento: il suono è sfumato. Sogni d’oro.
+msg_stopped_battery|Batteria scarica: riproduzione fermata per proteggere la sveglia.
+msg_stopped_timer|Timer del sonno terminato.
+msg_file_error|Impossibile riprodurre questo file audio.
+msg_layer_limit|Puoi mixare fino a %1$d suoni insieme.
+focus_title|Compagno di concentrazione
+plan_classic|Pomodoro 25/5
+plan_deep|Lavoro profondo 50/10
+focus_phase_work|Focus
+focus_phase_break|Pausa
+focus_phase_long_break|Pausa lunga
+focus_completed|%1$d sessioni completate
+focus_sounds_title|Cambio automatico dei suoni
+focus_sounds_work|Durante il lavoro: rumore marrone
+focus_sounds_work_pro|Durante il lavoro: rumore marrone + onde Beta
+focus_sounds_break|Durante le pause: ruscello + uccelli
+zen_open|Schermo Zen
+zen_hint|Tocca due volte per uscire
+zen_switch_clock|Stile orologio
+zen_switch_effect|Animazione
+zen_keep_screen|Schermo sempre acceso in modalità Zen
+zen_keep_screen_desc|Lo schermo viene oscurato quasi al nero.
+language|Lingua
+language_system|Lingua del telefono (predefinita)
+haptics|Feedback aptico
+haptics_desc|Leggere vibrazioni quando giri le manopole.
+crossfade_title|Dissolvenza del loop
+crossfade_desc|Fusione di %1$.2f s nel punto di loop dei file importati.
+section_general|Generale
+section_playback|Riproduzione
+section_sleep_safety|Sonno e batteria
+section_zen|Modalità Zen
+section_pro|SomnaLooper Pro
+section_data|Cronologia
+section_about|Informazioni
+pro_title|Sblocca SomnaLooper Pro
+pro_desc|Tutti i suoni, 8 livelli, stop da movimento e protezione batteria.
+pro_active_title|Pro è attivo
+pro_active_desc|Grazie per sostenere SomnaLooper!
+pro_badge|PRO
+pro_benefit_sounds|Tutti i 29 suoni, battiti binaurali inclusi
+pro_benefit_layers|Mixa fino a 8 suoni (gratis: 3)
+pro_benefit_sensors|Stop automatico da movimento e protezione batteria
+pro_benefit_support|Acquisto unico, per sempre. Niente pubblicità né abbonamento.
+pro_buy|Acquista Pro
+pro_buy_price|Acquista Pro · %1$s
+pro_unavailable|Gli acquisti sono disponibili nella versione Google Play.
+restore_purchases|Ripristina acquisti
+dev_pro|Sviluppatore: sblocca Pro
+dev_pro_desc|Solo build di debug, per i test.
+history_title|Cronologia ascolti
+history_desc|Le tue sessioni recenti di sonno e concentrazione.
+history_week|Tempo di ascolto, ultimi 7 giorni
+history_empty|Ancora nessuna sessione.
+reason_motion|fermato dal sensore di movimento
+reason_battery|fermato per risparmiare batteria
+reason_timer|timer del sonno
+privacy_title|100% sul dispositivo
+privacy_text|SomnaLooper non ha server né permesso Internet. I suoni sono generati sul telefono; mix, file e cronologia non lo lasciano mai.
+version_label|Versione %1$s
+notif_subtitle_playing|In riproduzione
+notif_timer_left|Timer: mancano %1$d min
+channel_alerts|Avvisi
+@fade_minutes|one=Sfuma nell’ultimo %1$d minuto|other=Sfuma negli ultimi %1$d minuti
+@motion_desc|one=Sfuma dopo %1$d minuto senza movimento|other=Sfuma dopo %1$d minuti senza movimento
+@minutes|one=%1$d min|other=%1$d min

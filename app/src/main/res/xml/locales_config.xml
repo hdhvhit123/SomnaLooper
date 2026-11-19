@@ -12,4 +12,12 @@
     <locale android:name="zh-CN" />
     <locale android:name="id" />
     <locale android:name="th" />
+    <locale android:name="zh-TW" />
+    <locale android:name="hi" />
+    <locale android:name="ar" />
+    <locale android:name="it" />
+    <locale android:name="tr" />
+    <locale android:name="pl" />
+    <locale android:name="nl" />
+    <locale android:name="ms" />
 </locale-config>

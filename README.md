@@ -22,7 +22,7 @@ INTERNET permission, no analytics.
 | Zen ambient display | OLED black, dim retro flip clock or misty hourglass, slow rain or water-ripple animation, screen dimmed and kept on, double-tap to leave. |
 | History | Listening sessions (Room) with weekly total and stop reason. |
 | Pro | One-time in-app product `somnalooper_pro` via Play Billing 7. Free tier: 15 sounds, 3 layers, standard timer. Debug builds have a "Developer: unlock Pro" switch. |
-| Languages | Follows the phone language. Shipped: English (default), Tiếng Việt, Español, Français, Deutsch, Português (BR), Русский, 日本語, 한국어, 简体中文, Bahasa Indonesia, ไทย. Per-app language picker in Settings (Android 13+ system setting is also supported via `locales_config`). |
+| Languages | Follows the phone language. Shipped: English (default), Tiếng Việt, Español, Français, Deutsch, Português (BR), Русский, 日本語, 한국어, 简体中文, Bahasa Indonesia, ไทย, 繁體中文 (TW/HK), हिन्दी, العربية (RTL), Italiano, Türkçe, Polski, Nederlands, Bahasa Melayu (20 languages). Per-app language picker in Settings (Android 13+ system setting is also supported via `locales_config`). |
 
 ## Build
 

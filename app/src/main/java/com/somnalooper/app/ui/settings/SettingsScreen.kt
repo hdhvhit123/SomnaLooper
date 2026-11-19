@@ -66,6 +66,14 @@ private val LANGUAGES = listOf(
     "zh-CN" to "简体中文",
     "id" to "Bahasa Indonesia",
     "th" to "ไทย",
+    "zh-TW" to "繁體中文",
+    "hi" to "हिन्दी",
+    "ar" to "العربية",
+    "it" to "Italiano",
+    "tr" to "Türkçe",
+    "pl" to "Polski",
+    "nl" to "Nederlands",
+    "ms" to "Bahasa Melayu",
 )
 
 @Composable

@@ -1,0 +1,178 @@
+app_name|SomnaLooper
+tagline|Tidur lena dan fokus mendalam. Tiada iklan, tiada data, privasi sepenuhnya.
+tab_mixer|Pengadun
+tab_presets|Kegemaran
+tab_timer|Pemasa
+tab_focus|Fokus
+tab_settings|Tetapan
+cat_nature|Alam
+cat_ambient|Suasana
+cat_noise|Hingar warna
+cat_brainwave|Gelombang otak
+cat_mine|Bunyi saya
+snd_rain_roof|Hujan di atas bumbung zink
+snd_rain_forest|Hutan hujan tropika
+snd_thunder|Guruh di kejauhan
+snd_ocean|Ombak malam
+snd_stream|Anak sungai mengalir
+snd_wind|Angin di ngarai
+snd_leaves|Daun berdesir
+snd_birds|Kicauan burung pagi
+snd_crickets|Cengkerik musim panas
+snd_underwater|Bawah air
+snd_campfire|Unggun api
+snd_cafe|Kafe Paris
+snd_clock|Detik jam
+snd_fan|Kipas siling
+snd_train|Kereta api malam
+snd_cat_purr|Kucing berdengkur
+snd_heartbeat|Degupan jantung dalam rahim
+snd_airplane|Kabin kapal terbang
+snd_singing_bowl|Mangkuk nyanyian
+snd_wind_chimes|Loceng angin
+snd_white|Hingar putih
+snd_pink|Hingar merah jambu
+snd_brown|Hingar perang
+snd_green|Hingar hijau
+snd_delta|Gelombang Delta
+snd_theta|Gelombang Theta
+snd_alpha|Gelombang Alfa
+snd_beta|Gelombang Beta
+snd_gamma|Gelombang Gamma
+desc_white|Hingar putih: tenaga sama pada semua frekuensi. Menutup bunyi mengejut.
+desc_pink|Hingar merah jambu: nada tinggi lebih lembut, seperti hujan berterusan. Selesa untuk tidur.
+desc_brown|Hingar perang: dalam dan bergemuruh. Membantu cepat tertidur.
+desc_green|Hingar hijau: tertumpu pada frekuensi tengah, semula jadi dan tenang.
+desc_delta|Delta 2 Hz (0.5–4 Hz): tidur nyenyak.
+desc_theta|Theta 6 Hz (4–8 Hz): meditasi.
+desc_alpha|Alfa 10 Hz (8–14 Hz): tenang tetapi berjaga.
+desc_beta|Beta 18 Hz (14–30 Hz): fokus aktif.
+desc_gamma|Gamma 40 Hz: tumpuan tinggi.
+headphones_hint|Rentak binaural memerlukan fon kepala: setiap telinga mendengar nada yang sedikit berbeza.
+import_audio|Import audio
+import_hint|Tambah muzik instrumental, podcast, kuliah atau zikir anda (MP3, M4A, FLAC, WAV, OGG). Ia berulang lancar dengan crossfade. Tekan lama untuk tukar nama atau buang.
+edit_track|Edit bunyi
+name|Nama
+save|Simpan
+delete|Padam
+cancel|Batal
+close|Tutup
+remove|Buang
+rename|Tukar nama
+back|Kembali
+play|Main
+pause|Jeda
+stop|Henti
+skip|Langkau
+clear_all|Kosongkan semua
+a11y_volume|Kelantangan %1$d peratus
+a11y_off|Mati
+active_layers|Bunyi aktif
+mini_empty|Ketik bunyi untuk membina adunan anda
+mini_hint|Sehingga 8 lapisan, setiap satu dengan kelantangan sendiri
+mini_layers|%1$d bunyi dimainkan
+mini_timer|Berhenti dalam %1$s
+save_preset|Simpan ke kegemaran
+save_current_mix|Simpan adunan semasa
+preset_name_hint|cth. Malam hujan
+my_presets|Kegemaran saya
+no_presets|Adunkan beberapa bunyi, kemudian simpan di sini dengan nama anda sendiri.
+curated_presets|Landskap bunyi pilihan
+delete_preset_q|Padam “%1$s”?
+preset_rainy_night|Malam hujan
+preset_deep_focus|Fokus mendalam
+preset_ocean_dream|Mimpi lautan
+preset_campfire_night|Malam unggun api
+preset_baby_sleep|Tidur bayi
+preset_cozy_cafe|Kafe selesa
+preset_meditation|Meditasi
+preset_night_train|Kereta api malam
+preset_forest_morning|Pagi di hutan
+sleep_timer|Pemasa tidur
+start_timer|Mula pemasa
+cancel_timer|Batal pemasa
+add_15|+15 min
+timer_running|sehingga senyap
+timer_fading|semakin perlahan…
+timer_motion_fading|anda nampaknya sudah tidur, memperlahankan…
+timer_no_sound_hint|Pilih beberapa bunyi dalam Pengadun dahulu.
+dial_hint|putar tombol
+minutes_short|min
+hours_minutes|jam : min
+fade_out_title|Pudar perlahan
+motion_title|Henti auto apabila tidak bergerak
+motion_tip|Letakkan telefon di atas tilam dekat bantal.
+motion_sensitivity|Kepekaan
+sens_low|Rendah
+sens_medium|Sederhana
+sens_high|Tinggi
+battery_title|Pelindung bateri
+battery_desc|Hentikan main balik apabila bateri %1$d%% supaya penggera pagi tetap berbunyi.
+battery_stop_title|Main balik dihentikan untuk jimat bateri
+battery_stop_text|Bateri %1$d%%. Penggera anda selamat.
+msg_stopped_motion|Tiada pergerakan: bunyi dipudarkan. Selamat tidur.
+msg_stopped_battery|Bateri lemah: main balik dihentikan untuk melindungi penggera.
+msg_stopped_timer|Pemasa tidur tamat.
+msg_file_error|Fail audio ini tidak dapat dimainkan.
+msg_layer_limit|Anda boleh adun sehingga %1$d bunyi serentak.
+focus_title|Teman fokus
+plan_classic|Pomodoro 25/5
+plan_deep|Kerja mendalam 50/10
+focus_phase_work|Fokus
+focus_phase_break|Rehat
+focus_phase_long_break|Rehat panjang
+focus_completed|%1$d sesi selesai
+focus_sounds_title|Tukar bunyi automatik
+focus_sounds_work|Semasa fokus: hingar perang
+focus_sounds_work_pro|Semasa fokus: hingar perang + gelombang Beta
+focus_sounds_break|Semasa rehat: anak sungai + burung
+zen_open|Paparan Zen
+zen_hint|Ketik dua kali untuk keluar
+zen_switch_clock|Gaya jam
+zen_switch_effect|Animasi
+zen_keep_screen|Kekalkan skrin menyala dalam mod Zen
+zen_keep_screen_desc|Skrin dimalapkan hampir hitam.
+language|Bahasa
+language_system|Bahasa telefon (lalai)
+haptics|Maklum balas haptik
+haptics_desc|Getaran lembut apabila memutar tombol.
+crossfade_title|Crossfade gelung
+crossfade_desc|Adunan %1$.2f s pada titik gelung fail yang diimport.
+section_general|Umum
+section_playback|Main balik
+section_sleep_safety|Tidur & bateri
+section_zen|Mod Zen
+section_pro|SomnaLooper Pro
+section_data|Sejarah
+section_about|Perihal
+pro_title|Buka SomnaLooper Pro
+pro_desc|Semua bunyi, 8 lapisan, henti auto dan pelindung bateri.
+pro_active_title|Pro aktif
+pro_active_desc|Terima kasih kerana menyokong SomnaLooper!
+pro_badge|PRO
+pro_benefit_sounds|Kesemua 29 bunyi, termasuk rentak binaural
+pro_benefit_layers|Adun sehingga 8 bunyi serentak (percuma: 3)
+pro_benefit_sensors|Henti auto apabila tidak bergerak dan pelindung bateri
+pro_benefit_support|Beli sekali, milik selamanya. Tiada iklan, tiada langganan.
+pro_buy|Beli Pro
+pro_buy_price|Beli Pro · %1$s
+pro_unavailable|Pembelian tersedia dalam versi Google Play.
+restore_purchases|Pulihkan pembelian
+dev_pro|Pembangun: buka Pro
+dev_pro_desc|Binaan nyahpepijat sahaja, untuk ujian.
+history_title|Sejarah mendengar
+history_desc|Sesi tidur dan fokus terkini anda.
+history_week|Masa mendengar, 7 hari lepas
+history_empty|Belum ada sesi.
+reason_motion|dihentikan oleh sensor gerakan
+reason_battery|dihentikan untuk jimat bateri
+reason_timer|pemasa tidur
+privacy_title|100% dalam peranti
+privacy_text|SomnaLooper tiada pelayan dan tiada kebenaran internet. Bunyi dijana dalam telefon anda; adunan, fail dan sejarah anda tidak pernah keluar daripadanya.
+version_label|Versi %1$s
+notif_subtitle_playing|Sedang dimainkan
+notif_timer_left|Pemasa tidur: tinggal %1$d min
+channel_alerts|Makluman
+@fade_minutes|other=Pudarkan dalam %1$d minit terakhir
+@motion_desc|other=Pudarkan selepas %1$d minit tanpa gerakan
+@minutes|other=%1$d min

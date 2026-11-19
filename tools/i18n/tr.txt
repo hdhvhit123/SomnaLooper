@@ -1,0 +1,178 @@
+app_name|SomnaLooper
+tagline|Derin uyu, derin odaklan. Reklam yok, veri yok, tamamen gizli.
+tab_mixer|Mikser
+tab_presets|Favoriler
+tab_timer|Zamanlayıcı
+tab_focus|Odak
+tab_settings|Ayarlar
+cat_nature|Doğa
+cat_ambient|Ortam
+cat_noise|Renkli gürültü
+cat_brainwave|Beyin dalgaları
+cat_mine|Seslerim
+snd_rain_roof|Teneke çatıda yağmur
+snd_rain_forest|Tropikal yağmur ormanı
+snd_thunder|Uzak gök gürültüsü
+snd_ocean|Gece okyanus dalgaları
+snd_stream|Şırıldayan dere
+snd_wind|Kanyonda rüzgar
+snd_leaves|Hışırdayan yapraklar
+snd_birds|Sabah kuşları
+snd_crickets|Yaz cırcır böcekleri
+snd_underwater|Su altı
+snd_campfire|Kamp ateşi
+snd_cafe|Paris kafesi
+snd_clock|Tıkırdayan saat
+snd_fan|Tavan vantilatörü
+snd_train|Gece treni
+snd_cat_purr|Mırlayan kedi
+snd_heartbeat|Anne karnında kalp atışı
+snd_airplane|Uçak kabini
+snd_singing_bowl|Tibet çanağı
+snd_wind_chimes|Rüzgar çanı
+snd_white|Beyaz gürültü
+snd_pink|Pembe gürültü
+snd_brown|Kahverengi gürültü
+snd_green|Yeşil gürültü
+snd_delta|Delta dalgaları
+snd_theta|Teta dalgaları
+snd_alpha|Alfa dalgaları
+snd_beta|Beta dalgaları
+snd_gamma|Gama dalgaları
+desc_white|Beyaz gürültü: tüm frekanslarda eşit enerji. Ani sesleri iyi maskeler.
+desc_pink|Pembe gürültü: daha yumuşak tizler, düzenli yağmur gibi. Uyku için hoş.
+desc_brown|Kahverengi gürültü: derin ve gürleyen. Hızlı uykuya dalmaya yardımcı olur.
+desc_green|Yeşil gürültü: orta frekanslarda yoğun, doğal ve sakin.
+desc_delta|Delta 2 Hz (0,5–4 Hz): derin uyku.
+desc_theta|Teta 6 Hz (4–8 Hz): meditasyon.
+desc_alpha|Alfa 10 Hz (8–14 Hz): rahat uyanıklık.
+desc_beta|Beta 18 Hz (14–30 Hz): aktif odak.
+desc_gamma|Gama 40 Hz: yüksek konsantrasyon.
+headphones_hint|Binaural ritimler kulaklık gerektirir: her kulak biraz farklı bir ton duyar.
+import_audio|Ses içe aktar
+import_hint|Kendi enstrümantal müziğini, podcast, ders veya ilahilerini ekle (MP3, M4A, FLAC, WAV, OGG). Çapraz geçişle kesintisiz döngüye girer. Yeniden adlandırmak veya kaldırmak için basılı tut.
+edit_track|Sesi düzenle
+name|Ad
+save|Kaydet
+delete|Sil
+cancel|İptal
+close|Kapat
+remove|Kaldır
+rename|Yeniden adlandır
+back|Geri
+play|Oynat
+pause|Duraklat
+stop|Durdur
+skip|Atla
+clear_all|Tümünü temizle
+a11y_volume|Ses yüzde %1$d
+a11y_off|Kapalı
+active_layers|Etkin sesler
+mini_empty|Karışımını oluşturmak için seslere dokun
+mini_hint|Her biri kendi ses seviyesiyle 8 katmana kadar
+mini_layers|%1$d ses çalıyor
+mini_timer|%1$s sonra durur
+save_preset|Favorilere kaydet
+save_current_mix|Bu karışımı kaydet
+preset_name_hint|ör. Yağmurlu gece
+my_presets|Favorilerim
+no_presets|Birkaç sesi karıştır, sonra kendi adınla buraya kaydet.
+curated_presets|Önerilen ses manzaraları
+delete_preset_q|“%1$s” silinsin mi?
+preset_rainy_night|Yağmurlu gece
+preset_deep_focus|Derin odak
+preset_ocean_dream|Okyanus rüyası
+preset_campfire_night|Kamp ateşi gecesi
+preset_baby_sleep|Bebek uykusu
+preset_cozy_cafe|Sıcak kafe
+preset_meditation|Meditasyon
+preset_night_train|Gece treni
+preset_forest_morning|Ormanda sabah
+sleep_timer|Uyku zamanlayıcı
+start_timer|Zamanlayıcıyı başlat
+cancel_timer|Zamanlayıcıyı iptal et
+add_15|+15 dk
+timer_running|sessizliğe kadar
+timer_fading|yavaşça azalıyor…
+timer_motion_fading|uyumuş görünüyorsun, azalıyor…
+timer_no_sound_hint|Önce Mikser’den ses seç.
+dial_hint|kadranı çevir
+minutes_short|dk
+hours_minutes|sa : dk
+fade_out_title|Yumuşak kısılma
+motion_title|Hareketle otomatik durdurma
+motion_tip|Telefonu yastığının yanında yatağa koy.
+motion_sensitivity|Hassasiyet
+sens_low|Düşük
+sens_medium|Orta
+sens_high|Yüksek
+battery_title|Pil koruması
+battery_desc|Alarmın çalabilmesi için pil %%%1$d olunca oynatmayı durdur.
+battery_stop_title|Pil tasarrufu için oynatma durduruldu
+battery_stop_text|Pil %%%1$d. Alarmın güvende.
+msg_stopped_motion|Hareket yok: ses kısıldı. İyi uykular.
+msg_stopped_battery|Pil zayıf: alarmını korumak için oynatma durduruldu.
+msg_stopped_timer|Uyku zamanlayıcı bitti.
+msg_file_error|Bu ses dosyası oynatılamadı.
+msg_layer_limit|Aynı anda en fazla %1$d ses karıştırabilirsin.
+focus_title|Odak arkadaşı
+plan_classic|Pomodoro 25/5
+plan_deep|Derin çalışma 50/10
+focus_phase_work|Odak
+focus_phase_break|Mola
+focus_phase_long_break|Uzun mola
+focus_completed|%1$d oturum tamamlandı
+focus_sounds_title|Otomatik ses değişimi
+focus_sounds_work|Odaklanırken: kahverengi gürültü
+focus_sounds_work_pro|Odaklanırken: kahverengi gürültü + beta dalgaları
+focus_sounds_break|Molalarda: dere + kuşlar
+zen_open|Zen ekranı
+zen_hint|Çıkmak için iki kez dokun
+zen_switch_clock|Saat stili
+zen_switch_effect|Animasyon
+zen_keep_screen|Zen modunda ekranı açık tut
+zen_keep_screen_desc|Ekran neredeyse siyaha kadar karartılır.
+language|Dil
+language_system|Telefon dili (varsayılan)
+haptics|Dokunsal geri bildirim
+haptics_desc|Kadranları çevirirken hafif titreşim.
+crossfade_title|Döngü çapraz geçişi
+crossfade_desc|İçe aktarılan dosyaların döngü noktasında %1$.2f sn geçiş.
+section_general|Genel
+section_playback|Oynatma
+section_sleep_safety|Uyku ve pil
+section_zen|Zen modu
+section_pro|SomnaLooper Pro
+section_data|Geçmiş
+section_about|Hakkında
+pro_title|SomnaLooper Pro’yu aç
+pro_desc|Tüm sesler, 8 katman, hareketle durdurma ve pil koruması.
+pro_active_title|Pro etkin
+pro_active_desc|SomnaLooper’ı desteklediğin için teşekkürler!
+pro_badge|PRO
+pro_benefit_sounds|Binaural ritimler dahil 29 sesin tamamı
+pro_benefit_layers|Aynı anda 8 sese kadar karıştır (ücretsiz: 3)
+pro_benefit_sensors|Hareketle otomatik durdurma ve pil koruması
+pro_benefit_support|Tek seferlik satın alma, ömür boyu. Reklam ve abonelik yok.
+pro_buy|Pro satın al
+pro_buy_price|Pro satın al · %1$s
+pro_unavailable|Satın alma Google Play sürümünde kullanılabilir.
+restore_purchases|Satın alımları geri yükle
+dev_pro|Geliştirici: Pro’yu aç
+dev_pro_desc|Yalnızca test için hata ayıklama sürümlerinde.
+history_title|Dinleme geçmişi
+history_desc|Son uyku ve odak oturumların.
+history_week|Son 7 gün dinleme süresi
+history_empty|Henüz oturum yok.
+reason_motion|hareket sensörüyle durduruldu
+reason_battery|pil tasarrufu için durduruldu
+reason_timer|uyku zamanlayıcı
+privacy_title|%100 cihazda
+privacy_text|SomnaLooper’ın sunucusu ve internet izni yoktur. Sesler telefonunda üretilir; karışımların, dosyaların ve geçmişin cihazdan asla çıkmaz.
+version_label|Sürüm %1$s
+notif_subtitle_playing|Çalıyor
+notif_timer_left|Uyku zamanlayıcı: %1$d dk kaldı
+channel_alerts|Uyarılar
+@fade_minutes|one=Son %1$d dakikada kıs|other=Son %1$d dakikada kıs
+@motion_desc|one=%1$d dakika hareketsizlikten sonra kıs|other=%1$d dakika hareketsizlikten sonra kıs
+@minutes|one=%1$d dk|other=%1$d dk

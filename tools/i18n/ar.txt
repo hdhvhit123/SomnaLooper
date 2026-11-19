@@ -1,0 +1,178 @@
+app_name|SomnaLooper
+tagline|نوم هانئ وتركيز عميق. بلا إعلانات، بلا بيانات، خصوصية تامة.
+tab_mixer|المازج
+tab_presets|المفضلة
+tab_timer|المؤقت
+tab_focus|التركيز
+tab_settings|الإعدادات
+cat_nature|الطبيعة
+cat_ambient|الأجواء
+cat_noise|الضوضاء الملونة
+cat_brainwave|موجات الدماغ
+cat_mine|أصواتي
+snd_rain_roof|مطر على سقف معدني
+snd_rain_forest|غابة استوائية مطيرة
+snd_thunder|رعد بعيد
+snd_ocean|أمواج البحر ليلًا
+snd_stream|جدول ماء
+snd_wind|ريح في الوادي
+snd_leaves|حفيف الأوراق
+snd_birds|عصافير الصباح
+snd_crickets|صراصير الصيف
+snd_underwater|تحت الماء
+snd_campfire|نار المخيم
+snd_cafe|مقهى باريسي
+snd_clock|تكتكة الساعة
+snd_fan|مروحة سقف
+snd_train|قطار الليل
+snd_cat_purr|خرخرة قطة
+snd_heartbeat|نبض القلب في الرحم
+snd_airplane|مقصورة الطائرة
+snd_singing_bowl|الوعاء الغنائي
+snd_wind_chimes|أجراس الريح
+snd_white|ضوضاء بيضاء
+snd_pink|ضوضاء وردية
+snd_brown|ضوضاء بنية
+snd_green|ضوضاء خضراء
+snd_delta|موجات دلتا
+snd_theta|موجات ثيتا
+snd_alpha|موجات ألفا
+snd_beta|موجات بيتا
+snd_gamma|موجات غاما
+desc_white|الضوضاء البيضاء: طاقة متساوية في كل الترددات. تحجب الأصوات المفاجئة.
+desc_pink|الضوضاء الوردية: حدة أنعم كالمطر الثابت. مريحة للنوم.
+desc_brown|الضوضاء البنية: عميقة وهادرة. تساعد على النوم بسرعة.
+desc_green|الضوضاء الخضراء: تتركز في الترددات المتوسطة، طبيعية وهادئة.
+desc_delta|دلتا 2 هرتز (0.5–4 هرتز): نوم عميق.
+desc_theta|ثيتا 6 هرتز (4–8 هرتز): تأمل.
+desc_alpha|ألفا 10 هرتز (8–14 هرتز): استرخاء مع يقظة.
+desc_beta|بيتا 18 هرتز (14–30 هرتز): تركيز نشط.
+desc_gamma|غاما 40 هرتز: تركيز عالٍ.
+headphones_hint|النبضات ثنائية الأذن تحتاج إلى سماعات: كل أذن تسمع نغمة مختلفة قليلًا.
+import_audio|استيراد صوت
+import_hint|أضف موسيقاك الهادئة أو البودكاست أو المحاضرات أو التلاوات (MP3، M4A، FLAC، WAV، OGG). تُكرَّر بسلاسة مع تلاشٍ متقاطع. اضغط مطولًا لإعادة التسمية أو الإزالة.
+edit_track|تعديل الصوت
+name|الاسم
+save|حفظ
+delete|حذف
+cancel|إلغاء
+close|إغلاق
+remove|إزالة
+rename|إعادة تسمية
+back|رجوع
+play|تشغيل
+pause|إيقاف مؤقت
+stop|إيقاف
+skip|تخطٍّ
+clear_all|مسح الكل
+a11y_volume|مستوى الصوت %1$d بالمئة
+a11y_off|متوقف
+active_layers|الأصوات النشطة
+mini_empty|المس الأصوات لتكوين مزيجك
+mini_hint|حتى 8 طبقات، لكل منها مستوى صوت خاص
+mini_layers|عدد الأصوات المشغلة: %1$d
+mini_timer|يتوقف بعد %1$s
+save_preset|حفظ في المفضلة
+save_current_mix|حفظ المزيج الحالي
+preset_name_hint|مثال: ليلة ممطرة
+my_presets|مفضلتي
+no_presets|امزج بعض الأصوات ثم احفظها هنا باسم من اختيارك.
+curated_presets|أجواء صوتية مقترحة
+delete_preset_q|حذف «%1$s»؟
+preset_rainy_night|ليلة ممطرة
+preset_deep_focus|تركيز عميق
+preset_ocean_dream|حلم المحيط
+preset_campfire_night|ليلة حول النار
+preset_baby_sleep|نوم الطفل
+preset_cozy_cafe|مقهى دافئ
+preset_meditation|تأمل
+preset_night_train|قطار الليل
+preset_forest_morning|صباح في الغابة
+sleep_timer|مؤقت النوم
+start_timer|بدء المؤقت
+cancel_timer|إلغاء المؤقت
+add_15|+15 دقيقة
+timer_running|حتى الصمت
+timer_fading|يخفت بهدوء…
+timer_motion_fading|يبدو أنك نمت، يخفت الصوت…
+timer_no_sound_hint|اختر بعض الأصوات من المازج أولًا.
+dial_hint|أدر القرص
+minutes_short|دقيقة
+hours_minutes|ساعة : دقيقة
+fade_out_title|خفوت سلس
+motion_title|إيقاف تلقائي عند السكون
+motion_tip|ضع الهاتف على المرتبة بجانب الوسادة.
+motion_sensitivity|الحساسية
+sens_low|منخفضة
+sens_medium|متوسطة
+sens_high|عالية
+battery_title|حماية البطارية
+battery_desc|أوقف التشغيل عند %1$d%% من البطارية ليرنّ المنبه صباحًا.
+battery_stop_title|أُوقف التشغيل لتوفير البطارية
+battery_stop_text|البطارية %1$d%%. منبهك في أمان.
+msg_stopped_motion|لا حركة: خفت الصوت. نومًا هنيئًا.
+msg_stopped_battery|البطارية منخفضة: أُوقف التشغيل لحماية المنبه.
+msg_stopped_timer|انتهى مؤقت النوم.
+msg_file_error|تعذّر تشغيل هذا الملف الصوتي.
+msg_layer_limit|يمكنك مزج حتى %1$d أصوات في وقت واحد.
+focus_title|رفيق التركيز
+plan_classic|بومودورو 25/5
+plan_deep|عمل عميق 50/10
+focus_phase_work|تركيز
+focus_phase_break|استراحة
+focus_phase_long_break|استراحة طويلة
+focus_completed|الجلسات المكتملة: %1$d
+focus_sounds_title|تبديل الأصوات تلقائيًا
+focus_sounds_work|أثناء التركيز: ضوضاء بنية
+focus_sounds_work_pro|أثناء التركيز: ضوضاء بنية + موجات بيتا
+focus_sounds_break|أثناء الاستراحة: جدول ماء + عصافير
+zen_open|شاشة زن
+zen_hint|انقر مرتين للخروج
+zen_switch_clock|نمط الساعة
+zen_switch_effect|الحركة
+zen_keep_screen|إبقاء الشاشة مضاءة في وضع زن
+zen_keep_screen_desc|تُعتَّم الشاشة حتى تقترب من الأسود.
+language|اللغة
+language_system|لغة الهاتف (افتراضي)
+haptics|الاهتزاز اللمسي
+haptics_desc|اهتزاز خفيف عند تدوير الأقراص.
+crossfade_title|تلاشٍ متقاطع للتكرار
+crossfade_desc|مزج لمدة %1$.2f ث عند نقطة التكرار للملفات المستوردة.
+section_general|عام
+section_playback|التشغيل
+section_sleep_safety|النوم والبطارية
+section_zen|وضع زن
+section_pro|SomnaLooper Pro
+section_data|السجل
+section_about|حول
+pro_title|افتح SomnaLooper Pro
+pro_desc|كل الأصوات، 8 طبقات، إيقاف عند السكون وحماية البطارية.
+pro_active_title|Pro مفعّل
+pro_active_desc|شكرًا لدعمك SomnaLooper!
+pro_badge|PRO
+pro_benefit_sounds|جميع الأصوات الـ29، بما فيها النبضات ثنائية الأذن
+pro_benefit_layers|امزج حتى 8 أصوات معًا (المجاني: 3)
+pro_benefit_sensors|إيقاف تلقائي عند السكون وحماية البطارية
+pro_benefit_support|شراء لمرة واحدة إلى الأبد. بلا إعلانات ولا اشتراك.
+pro_buy|شراء Pro
+pro_buy_price|شراء Pro · %1$s
+pro_unavailable|الشراء متاح في نسخة Google Play.
+restore_purchases|استعادة المشتريات
+dev_pro|المطوّر: فتح Pro
+dev_pro_desc|في نسخ التصحيح فقط، للاختبار.
+history_title|سجل الاستماع
+history_desc|جلسات النوم والتركيز الأخيرة.
+history_week|وقت الاستماع خلال آخر 7 أيام
+history_empty|لا توجد جلسات بعد.
+reason_motion|أوقفه مستشعر الحركة
+reason_battery|أُوقف لتوفير البطارية
+reason_timer|مؤقت النوم
+privacy_title|100% على الجهاز
+privacy_text|لا يملك SomnaLooper خوادم ولا إذن إنترنت. تُولَّد الأصوات على هاتفك، ولا تغادره مزائجك وملفاتك وسجلك أبدًا.
+version_label|الإصدار %1$s
+notif_subtitle_playing|قيد التشغيل
+notif_timer_left|مؤقت النوم: متبقٍ %1$d دقيقة
+channel_alerts|التنبيهات
+@fade_minutes|zero=خفوت خلال آخر %1$d دقيقة|one=خفوت خلال آخر دقيقة (%1$d)|two=خفوت خلال آخر دقيقتين (%1$d)|few=خفوت خلال آخر %1$d دقائق|many=خفوت خلال آخر %1$d دقيقة|other=خفوت خلال آخر %1$d دقيقة
+@motion_desc|zero=خفوت بعد %1$d دقيقة بلا حركة|one=خفوت بعد دقيقة (%1$d) بلا حركة|two=خفوت بعد دقيقتين (%1$d) بلا حركة|few=خفوت بعد %1$d دقائق بلا حركة|many=خفوت بعد %1$d دقيقة بلا حركة|other=خفوت بعد %1$d دقيقة بلا حركة
+@minutes|zero=%1$d دقيقة|one=%1$d دقيقة|two=%1$d دقيقة|few=%1$d دقائق|many=%1$d دقيقة|other=%1$d دقيقة
